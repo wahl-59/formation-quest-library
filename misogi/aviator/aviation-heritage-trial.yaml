@@ -1,0 +1,156 @@
+id: misogi.aviator.aviation_heritage_trial.v1
+title: Aviation Heritage Trial
+archetype: Aviator
+theme: Skill, Vocation, and Gift
+duration_weeks: 8
+difficulty: 4
+estimated_total_hours: 24
+source_modules:
+  - Aviation
+  - Physics
+  - Communication
+tags:
+  - aviation
+  - physics
+  - history
+  - geography
+  - communication
+  - drawing
+  - public-speaking
+
+formation_goal: >
+  The student becomes a young interpreter of aviation heritage: someone who can see flight
+  as a union of courage, mechanics, place, history, and disciplined imagination.
+
+description: >
+  Over eight weeks, the student studies aviation heritage through site visits, aircraft sketches,
+  basic principles of flight, biography, and oral explanation. The final demonstration is a short
+  illustrated presentation that teaches others why aviation matters and how airplanes fly.
+
+why_it_matters: >
+  Aviation is not merely machinery. It is courage, physics, craft, risk, geography, and vocation
+  joined together. This Misogi helps a student move from fascination to understanding and from
+  consuming aviation facts to becoming a capable young guide.
+
+weekly_milestones:
+  - week: 1
+    title: Choose Aircraft and Aviator
+    description: >
+      Choose one aircraft and one aviation pioneer or local aviation figure to study.
+      Begin a project notebook.
+    finished_means: >
+      The student has selected an aircraft, selected an aviator, and written a one-page project plan.
+
+  - week: 2
+    title: Control Surfaces and Sketch
+    description: >
+      Complete a careful labeled sketch of the chosen aircraft, including wings, fuselage,
+      rudder, elevator, ailerons, landing gear, and engine or propeller location if visible.
+    finished_means: >
+      The student submits a labeled aircraft sketch and explains the purpose of elevator,
+      rudder, and ailerons.
+
+  - week: 3
+    title: Four Forces of Flight
+    description: >
+      Study lift, weight, thrust, and drag. Create a one-page diagram explaining how these
+      forces act on the aircraft.
+    finished_means: >
+      The student creates a four-forces diagram and explains it aloud to a parent.
+
+  - week: 4
+    title: Aviation Heritage Site Visit
+    description: >
+      Visit an aviation museum, heritage site, airport, or other parent-approved aviation location.
+      Take field notes and sketches.
+    finished_means: >
+      The student submits field notes, at least one sketch or photograph, and three observations
+      from the visit.
+
+  - week: 5
+    title: Biography of Courage
+    description: >
+      Read about the selected aviator. Identify one virtue, one difficulty, and one decision that
+      shaped the aviator's life.
+    finished_means: >
+      The student writes a one-page biographical reflection organized around virtue, difficulty,
+      and decision.
+
+  - week: 6
+    title: Build and Test a Model Glider
+    description: >
+      Build a simple model glider or paper aircraft. Test it at least five times. Record distance,
+      flight behavior, and one design change.
+    finished_means: >
+      The student submits test notes, one design change, and a short explanation of whether
+      the change improved flight.
+
+  - week: 7
+    title: Prepare the Final Presentation
+    description: >
+      Assemble sketches, diagrams, biography notes, site visit notes, and glider test results
+      into a 7-10 minute illustrated presentation.
+    finished_means: >
+      The student has a complete outline, visual aids, and has rehearsed the presentation once
+      for a parent.
+
+  - week: 8
+    title: Final Demonstration
+    description: >
+      Deliver the presentation to family, friends, mentor, or another approved audience.
+      Include a short glider demonstration if practical.
+    finished_means: >
+      The student gives the final presentation, answers questions, and writes a short reflection
+      on what he or she learned.
+
+linked_quest_ideas:
+  - quest.aviator.aviation_control_surfaces_sketch.v1
+  - quest.engineer.reverse_engineer_household_object.v1
+  - quest.comms.ham_radio_phonetic_alphabet.v1
+  - quest.citizen_scholar.local_history_interview.v1
+
+final_artifact: >
+  An illustrated aviation heritage portfolio containing aircraft sketch, four-forces diagram,
+  biography reflection, site visit notes, glider test results, and final presentation outline.
+
+final_demonstration: >
+  A 7-10 minute illustrated oral presentation explaining the chosen aircraft, aviator,
+  basic flight principles, and why aviation heritage matters.
+
+evidence_required:
+  - project_notebook
+  - aircraft_sketch
+  - physics_diagram
+  - site_visit_notes
+  - biography_reflection
+  - glider_test_data
+  - presentation_video_or_parent_observation
+  - final_reflection
+
+parent_review_rubric:
+  complete:
+    - Student completed all major milestones.
+    - Student can explain basic flight principles clearly.
+    - Student connected aviation to history, courage, and craft.
+    - Final presentation was organized and understandable.
+  needs_revision:
+    - Missing one or two pieces of evidence.
+    - Explanation is partially correct but unclear.
+    - Presentation needs better order or rehearsal.
+  incomplete:
+    - No final presentation.
+    - Little evidence of sustained work.
+    - Student cannot explain the basic ideas studied.
+
+portfolio_description: >
+  Completed an eight-week Aviation Heritage Trial, combining aircraft sketching,
+  principles of flight, aviation biography, site observation, model glider testing,
+  and a final oral presentation.
+
+parent_notes: >
+  This Misogi pairs especially well with WACO Aviation Cadets, Civil Air Patrol,
+  Young Eagles, local aviation museums, or Dayton aviation heritage sites.
+
+safety_notes: >
+  Parent approval required for all site visits. Model glider testing should be done in a safe open area.
+  No airport, hangar, or aircraft access without proper adult supervision.

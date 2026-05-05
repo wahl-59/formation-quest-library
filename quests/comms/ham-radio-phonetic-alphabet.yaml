@@ -1,0 +1,46 @@
+id: quest.comms.ham_radio_phonetic_alphabet.v1
+title: Ham Radio Phonetic Alphabet
+archetype: Communicator
+theme: Skill, Vocation, and Gift
+duration: 1 week
+difficulty: 2
+estimated_time: 120
+source_module: Radio Communication
+tags:
+  - communication
+  - preparedness
+  - speaking
+  - radio
+  - memory
+
+why_it_matters: >
+  Clear communication matters when conditions are difficult, noisy, stressful, or urgent.
+  Learning the phonetic alphabet trains precision, calm speech, and disciplined attention.
+
+instructions:
+  - Learn the NATO phonetic alphabet from Alpha to Zulu.
+  - Practice spelling your full name, address, and three common family locations using the phonetic alphabet.
+  - Create a one-page reference card for family radio or emergency communication.
+  - Practice a short mock radio exchange with a parent or sibling.
+  - Write a short reflection on why exact words matter in serious communication.
+
+deliverables:
+  - Handwritten or printed phonetic alphabet reference card
+  - Mock radio exchange script or recording
+  - Short written reflection
+
+evidence_required:
+  - image
+  - audio_or_video
+  - text
+
+finished_means: >
+  The student can recite the phonetic alphabet, use it to spell names and locations,
+  complete a mock radio exchange, and submit a clear family reference card.
+
+parent_notes: >
+  Keep the tone practical. The goal is not military role-play, but calm, precise communication.
+  This pairs well with a later PACE communication plan quest.
+
+safety_notes: >
+  If using real radios, follow all applicable laws and licensing requirements.

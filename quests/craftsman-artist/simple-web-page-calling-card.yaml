@@ -1,0 +1,47 @@
+id: quest.craftsman_artist.simple_web_page_calling_card.v1
+title: Build a Simple Web Page Calling Card
+archetype: Craftsman-Artist
+theme: Skill, Vocation, and Gift
+duration: 1 week
+difficulty: 3
+estimated_time: 240
+source_module: Web Development
+tags:
+  - coding
+  - writing
+  - design
+  - communication
+  - art
+
+why_it_matters: >
+  A simple web page teaches order, clarity, design, and communication.
+  The student learns that technology should serve truthful expression, not vanity or distraction.
+
+instructions:
+  - Create a single-page personal calling card using HTML and CSS.
+  - Include your name or initials, three interests, one favorite quotation, and one image or drawing.
+  - Use headings, paragraphs, links, and simple styling.
+  - Write a short explanation of what each section communicates.
+  - Show the page to a parent and revise one thing based on feedback.
+
+deliverables:
+  - HTML file
+  - CSS file or style section
+  - Screenshot of finished page
+  - Short design explanation
+
+evidence_required:
+  - file
+  - image
+  - text
+
+finished_means: >
+  The student produces a working one-page HTML/CSS calling card,
+  explains the design choices, and revises at least one element after parent feedback.
+
+parent_notes: >
+  This should be local/private unless the parent explicitly approves publication.
+  Keep the focus on craftsmanship and clarity, not online identity-building.
+
+safety_notes: >
+  Do not publish personal information, location, school information, or direct contact details.

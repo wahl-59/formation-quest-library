@@ -1,0 +1,138 @@
+id: misogi.engineer.household_engineer_trial.v1
+title: Household Engineer Trial
+archetype: Engineer
+theme: Home, Place, and Service
+duration_weeks: 6
+difficulty: 4
+estimated_total_hours: 18
+source_modules:
+  - Engineering
+  - Masonry
+  - Reverse Engineering
+  - Physics
+tags:
+  - engineering
+  - household-service
+  - construction
+  - physics
+  - math
+  - drawing
+  - stewardship
+
+formation_goal: >
+  The student becomes more capable of seeing household problems clearly,
+  designing practical solutions, building carefully, and serving the family through useful work.
+
+description: >
+  Over six weeks, the student identifies one small household or property problem,
+  studies it, designs a solution, builds or repairs something useful, tests the result,
+  and presents the finished work.
+
+why_it_matters: >
+  Engineering is not abstraction floating in the air. It is love made visible through
+  sound judgment, careful measurement, useful repair, and service to a real place.
+
+weekly_milestones:
+  - week: 1
+    title: Notice the Problem
+    description: >
+      Walk through the house, garage, yard, garden, creek area, or workshop with a parent.
+      Identify three possible problems that could be improved by repair, organization,
+      construction, or design.
+    finished_means: >
+      The student lists three possible problems, chooses one with parent approval,
+      and writes why it matters to the household.
+
+  - week: 2
+    title: Study and Measure
+    description: >
+      Observe the problem carefully. Take measurements, photos, sketches, and notes.
+      Identify constraints such as cost, tools, materials, safety, weather, and time.
+    finished_means: >
+      The student submits measurements, sketches, photos, and a clear problem statement.
+
+  - week: 3
+    title: Design the Solution
+    description: >
+      Create a plan. Include a drawing, materials list, tool list, cost estimate,
+      and step-by-step build or repair sequence.
+    finished_means: >
+      The parent approves the design, materials list, and safety plan before building begins.
+
+  - week: 4
+    title: Build or Repair
+    description: >
+      Complete the first major build or repair session. Document the work with photos
+      and notes. Record any unexpected problems.
+    finished_means: >
+      The student completes at least half of the build or repair and records what changed
+      from the original plan.
+
+  - week: 5
+    title: Finish and Test
+    description: >
+      Complete the build or repair. Test whether it solves the original problem.
+      Make at least one improvement after testing.
+    finished_means: >
+      The project is functional, tested, photographed, and improved at least once.
+
+  - week: 6
+    title: Present the Work
+    description: >
+      Present the finished project to the household. Explain the original problem,
+      design choices, materials, difficulties, final result, and what you would do differently.
+    finished_means: >
+      The student gives a 5-7 minute explanation and submits a final project report.
+
+linked_quest_ideas:
+  - quest.engineer.reverse_engineer_household_object.v1
+  - quest.engineer.masonry_mini_wall.v1
+  - quest.engineer.simple_circuit_household_solution.v1
+  - quest.naturalist_steward.land_navigation_map_and_bearing.v1
+
+final_artifact: >
+  A completed household repair, improvement, organized system, small structure,
+  tool rack, garden feature, storage solution, simple circuit, map, or other useful project.
+
+final_demonstration: >
+  A 5-7 minute explanation showing the original problem, the design plan,
+  the finished solution, and whether it worked.
+
+evidence_required:
+  - problem_statement
+  - measurements
+  - sketches
+  - materials_list
+  - build_photos
+  - test_notes
+  - final_project_report
+  - parent_observation
+
+parent_review_rubric:
+  complete:
+    - Student identified a real household problem.
+    - Student measured and planned before building.
+    - Student completed a useful repair or improvement.
+    - Student tested the result and made at least one improvement.
+    - Student explained the project clearly.
+  needs_revision:
+    - Project is useful but documentation is weak.
+    - Build is mostly complete but needs cleanup or testing.
+    - Student needs to revise the final explanation.
+  incomplete:
+    - No approved plan.
+    - Project was abandoned without a finished artifact.
+    - Work was unsafe, careless, or not useful to the household.
+
+portfolio_description: >
+  Completed a six-week Household Engineer Trial by identifying a real household problem,
+  designing a practical solution, building or repairing it, testing the result, and presenting
+  the finished work.
+
+parent_notes: >
+  Keep the first version modest. A small completed repair is better than a grand unfinished project.
+  The standard is usefulness, care, safety, and explanation.
+
+safety_notes: >
+  Parent approval and supervision required for tools, ladders, electricity, masonry, blades,
+  chemicals, heavy materials, or outdoor hazards.

@@ -1,0 +1,145 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "https://example.com/schemas/misogi.schema.yaml"
+title: Misogi
+description: >
+  A 1-3 month formative challenge that builds real skill, courage, service, and portfolio-worthy evidence.
+type: object
+additionalProperties: false
+
+required:
+  - id
+  - title
+  - archetype
+  - theme
+  - duration_weeks
+  - difficulty
+  - formation_goal
+  - description
+  - weekly_milestones
+  - linked_quest_ideas
+  - final_artifact
+  - final_demonstration
+  - evidence_required
+  - parent_review_rubric
+
+properties:
+  id:
+    type: string
+    description: Stable unique identifier. Do not change once published.
+    pattern: "^misogi\\.[a-z0-9_]+\\.[a-z0-9_]+\\.v[0-9]+$"
+
+  title:
+    type: string
+    minLength: 3
+
+  archetype:
+    type: string
+
+  theme:
+    type: string
+
+  duration_weeks:
+    type: integer
+    minimum: 4
+    maximum: 12
+
+  difficulty:
+    type: integer
+    minimum: 1
+    maximum: 5
+
+  estimated_total_hours:
+    type: integer
+    minimum: 1
+
+  source_modules:
+    type: array
+    items:
+      type: string
+
+  tags:
+    type: array
+    items:
+      type: string
+
+  formation_goal:
+    type: string
+    minLength: 10
+
+  description:
+    type: string
+    minLength: 10
+
+  why_it_matters:
+    type: string
+
+  weekly_milestones:
+    type: array
+    minItems: 1
+    items:
+      type: object
+      additionalProperties: false
+      required:
+        - week
+        - title
+        - description
+        - finished_means
+      properties:
+        week:
+          type: integer
+          minimum: 1
+          maximum: 12
+        title:
+          type: string
+        description:
+          type: string
+        finished_means:
+          type: string
+
+  linked_quest_ideas:
+    type: array
+    items:
+      type: string
+      pattern: "^quest\\.[a-z0-9_]+\\.[a-z0-9_]+\\.v[0-9]+$"
+
+  final_artifact:
+    type: string
+
+  final_demonstration:
+    type: string
+
+  evidence_required:
+    type: array
+    minItems: 1
+    items:
+      type: string
+
+  parent_review_rubric:
+    type: object
+    additionalProperties: true
+    required:
+      - complete
+      - needs_revision
+      - incomplete
+    properties:
+      complete:
+        type: array
+        items:
+          type: string
+      needs_revision:
+        type: array
+        items:
+          type: string
+      incomplete:
+        type: array
+        items:
+          type: string
+
+  portfolio_description:
+    type: string
+
+  parent_notes:
+    type: string
+
+  safety_notes:
+    type: string

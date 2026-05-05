@@ -1,0 +1,154 @@
+id: misogi.medic.household_readiness_medic_trial.v1
+title: Household Readiness Medic Trial
+archetype: Protector-Medic
+theme: Home, Place, and Service
+duration_weeks: 8
+difficulty: 4
+estimated_total_hours: 20
+source_modules:
+  - Basic First Aid
+  - First Aid Challenge
+  - Treating for Shock
+  - Treating Burns
+  - Treating Allergic Reactions
+  - Dealing with Seizures
+tags:
+  - first-aid
+  - health
+  - preparedness
+  - household-service
+  - communication
+  - responsibility
+
+formation_goal: >
+  The student becomes a more capable servant of the household by learning basic emergency
+  readiness, first aid principles, calm communication, and practical preparation.
+
+description: >
+  Over eight weeks, the student audits the family first aid kit, studies common emergency scenarios,
+  creates simple response cards, practices calm communication, and teaches the family one basic
+  readiness lesson. This Misogi does not make the student a medical provider; it trains prudence,
+  preparation, and service.
+
+why_it_matters: >
+  In moments of fear, a prepared person can become a gift to others.
+  Household readiness is not paranoia. It is love taking responsibility before trouble arrives.
+
+weekly_milestones:
+  - week: 1
+    title: First Aid Kit Audit
+    description: >
+      Inventory the family first aid kit. Identify missing, expired, damaged, or disorganized supplies.
+      Create a restock list.
+    finished_means: >
+      The student submits an inventory, a restock list, and a photo of the organized kit.
+
+  - week: 2
+    title: Emergency Contacts and Information
+    description: >
+      Create a private household emergency information sheet with parent help:
+      emergency numbers, address, allergies, medications, meeting place, and parent instructions.
+    finished_means: >
+      Parent approves the private emergency information sheet and stores it in an appropriate place.
+
+  - week: 3
+    title: Cuts, Scrapes, and Wound Care
+    description: >
+      Study basic wound care from a parent-approved first aid source.
+      Create a simple response card for minor cuts and scrapes.
+    finished_means: >
+      The student explains the basic steps for minor wound care and completes a response card.
+
+  - week: 4
+    title: Burns and Heat Injuries
+    description: >
+      Study basic burn response and heat-related illness response from a parent-approved source.
+      Create a response card.
+    finished_means: >
+      The student explains what to do and what not to do for minor burns and heat concerns.
+
+  - week: 5
+    title: Shock, Allergic Reactions, and Seizures
+    description: >
+      Study warning signs and safe response principles for shock, allergic reactions, and seizures.
+      Focus on recognizing danger and getting adult/professional help.
+    finished_means: >
+      The student completes a warning-signs chart and explains when to call emergency services.
+
+  - week: 6
+    title: Calm Communication Drill
+    description: >
+      Practice making a calm emergency call script. Include location, nature of emergency,
+      number of people involved, and what help is needed.
+    finished_means: >
+      The student practices the script with a parent and can communicate clearly under mild time pressure.
+
+  - week: 7
+    title: Teach the Household
+    description: >
+      Prepare a 5-minute family lesson on one readiness topic: first aid kit location,
+      emergency call procedure, burn response, or what to do if someone is hurt.
+    finished_means: >
+      The student teaches the lesson to the family and answers basic questions.
+
+  - week: 8
+    title: Final Household Readiness Binder
+    description: >
+      Assemble the kit inventory, restock list, emergency information sheet, response cards,
+      warning-signs chart, and final reflection.
+    finished_means: >
+      The student presents the completed household readiness binder or folder to a parent.
+
+linked_quest_ideas:
+  - quest.medic.first_aid_family_kit_audit.v1
+  - quest.comms.family_pace_communication_plan.v1
+  - quest.comms.ham_radio_phonetic_alphabet.v1
+
+final_artifact: >
+  A private household readiness binder or folder containing first aid kit inventory,
+  restock list, emergency information sheet, response cards, warning-signs chart,
+  and final reflection.
+
+final_demonstration: >
+  A 5-minute family lesson and calm communication drill demonstrating that the student
+  can explain basic household readiness procedures.
+
+evidence_required:
+  - first_aid_inventory
+  - restock_list
+  - emergency_information_sheet_parent_approved
+  - response_cards
+  - warning_signs_chart
+  - communication_drill_parent_observation
+  - family_lesson_parent_observation
+  - final_reflection
+
+parent_review_rubric:
+  complete:
+    - Student organized and documented the first aid kit.
+    - Student created accurate, parent-approved response cards.
+    - Student understands when to seek adult or emergency medical help.
+    - Student communicated calmly during the practice drill.
+    - Student taught the household clearly.
+  needs_revision:
+    - Binder is useful but missing one or two pieces.
+    - Student needs more practice explaining emergency steps calmly.
+    - Some response cards need parent correction.
+  incomplete:
+    - No organized kit or binder.
+    - Student gives unsafe or confused medical advice.
+    - No family lesson or communication drill completed.
+
+portfolio_description: >
+  Completed an eight-week Household Readiness Medic Trial by auditing the first aid kit,
+  creating response cards, practicing emergency communication, and teaching a family readiness lesson.
+
+parent_notes: >
+  This Misogi should emphasize humility and prudence. The student is not becoming a medical authority.
+  The goal is to recognize problems, render basic safe assistance, communicate clearly, and get adult
+  or professional help quickly.
+
+safety_notes: >
+  This is educational and not a substitute for professional medical training or care.
+  Parent must approve all medical information. Student should not administer medications
+  or perform procedures without proper adult supervision and training.

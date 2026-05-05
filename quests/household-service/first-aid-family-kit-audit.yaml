@@ -1,0 +1,48 @@
+id: quest.medic.first_aid_family_kit_audit.v1
+title: Family First Aid Kit Audit
+archetype: Protector-Medic
+theme: Home, Place, and Service
+duration: 1 week
+difficulty: 2
+estimated_time: 150
+source_module: Basic First Aid
+tags:
+  - first-aid
+  - preparedness
+  - household-service
+  - health
+  - responsibility
+
+why_it_matters: >
+  First aid begins before the emergency. A well-prepared kit is an act of love,
+  prudence, and service to the household.
+
+instructions:
+  - Find the family first aid kit with parent permission.
+  - Empty and sort the contents into categories: wound care, medications, tools, emergency items, and missing/expired items.
+  - Make an inventory list.
+  - Identify expired, damaged, or missing supplies.
+  - Create a restock list for a parent.
+  - Repack the kit neatly and label it clearly.
+
+deliverables:
+  - First aid kit inventory
+  - Missing/expired items list
+  - Restock list
+  - Photo of organized kit
+
+evidence_required:
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  The student inventories the family first aid kit, identifies missing or expired supplies,
+  creates a restock list, and repacks the kit in an orderly way.
+
+parent_notes: >
+  Parent should supervise handling of medications or sharp tools.
+  This can lead naturally into CPR/first aid certification or specific treatment quests.
+
+safety_notes: >
+  Student should not ingest, open, or test medications. Dispose of expired medications according to local guidance.

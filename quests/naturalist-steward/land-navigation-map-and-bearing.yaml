@@ -1,0 +1,48 @@
+id: quest.naturalist_steward.land_navigation_map_and_bearing.v1
+title: Map and Bearing Walk
+archetype: Naturalist-Steward
+theme: Creation and Wonder
+duration: 1 week
+difficulty: 3
+estimated_time: 180
+source_module: Land Navigation
+tags:
+  - geography
+  - preparedness
+  - nature
+  - observation
+  - math
+
+why_it_matters: >
+  Land navigation teaches a student to attend to place, direction, distance, and terrain.
+  It trains independence without severing the student from reality.
+
+instructions:
+  - Choose a safe walking area with a parent.
+  - Draw or print a simple map of the area.
+  - Mark a starting point, three checkpoints, and an endpoint.
+  - Learn how to identify north using a compass.
+  - Walk the route and record bearings, estimated distances, landmarks, and corrections.
+  - After the walk, revise the map based on what you actually observed.
+
+deliverables:
+  - Original route map
+  - Field notes with bearings, landmarks, and distance estimates
+  - Revised map
+  - Short reflection on what was harder than expected
+
+evidence_required:
+  - image_or_pdf
+  - text
+  - parent_observation
+
+finished_means: >
+  The student completes a supervised navigation walk, records bearings and landmarks,
+  revises the map from direct observation, and explains the route to a parent.
+
+parent_notes: >
+  Keep the route safe and age-appropriate. The important thing is attention to reality,
+  not technical perfection.
+
+safety_notes: >
+  A parent should approve the route beforehand. Do not send a child alone into unfamiliar terrain.

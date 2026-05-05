@@ -1,0 +1,50 @@
+id: quest.engineer.reverse_engineer_household_object.v1
+title: Reverse Engineer a Household Object
+archetype: Engineer
+theme: Skill, Vocation, and Gift
+duration: 1 week
+difficulty: 3
+estimated_time: 180
+source_module: Reverse Engineering
+tags:
+  - engineering
+  - observation
+  - drawing
+  - scientific-thinking
+  - household
+
+why_it_matters: >
+  Reverse engineering teaches a student to look carefully at made things,
+  understand how parts serve a whole, and appreciate the intelligence hidden in ordinary objects.
+
+instructions:
+  - Choose a simple household object with parent approval, such as a flashlight, stapler, hand tool, kitchen gadget, or broken toy.
+  - Observe it before taking anything apart. Sketch the outside and label visible parts.
+  - Carefully disassemble it, if safe and permitted.
+  - Sketch or photograph the parts in order.
+  - Explain what each major part does.
+  - Reassemble the object if possible.
+  - Write one paragraph explaining how the design could be improved.
+
+deliverables:
+  - Exterior sketch
+  - Parts diagram or photo layout
+  - Explanation of each major part
+  - Improvement paragraph
+
+evidence_required:
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  The student documents the object before, during, and after disassembly;
+  explains how the main parts work together; and proposes one reasonable improvement.
+
+parent_notes: >
+  Choose an object that is safe, inexpensive, and not emotionally important.
+  Avoid electronics with capacitors, batteries that may leak, sharp blades, or anything under pressure.
+
+safety_notes: >
+  Parent approval required. Do not disassemble appliances, power tools, medical devices,
+  lithium batteries, or anything connected to electricity.

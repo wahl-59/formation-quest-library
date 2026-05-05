@@ -1,0 +1,33 @@
+Every quest must include:
+- id
+- title
+- archetype
+- theme
+- duration
+- difficulty
+- estimated_time
+- tags
+- why_it_matters
+- instructions
+- deliverables
+- evidence_required
+- finished_means
+- parent_notes
+- safety_notes
+
+Every misogi must include:
+- id
+- title
+- archetype
+- theme
+- duration_weeks
+- difficulty
+- formation_goal
+- description
+- weekly_milestones
+- linked_quest_ideas
+- final_artifact
+- final_demonstration
+- evidence_required
+- parent_review_rubric
+- safety_notes

@@ -1,0 +1,46 @@
+id: quest.comms.family_pace_communication_plan.v1
+title: Family PACE Communication Plan
+archetype: Communicator
+theme: Home, Place, and Service
+duration: 1 week
+difficulty: 3
+estimated_time: 180
+source_module: Radio Communication
+tags:
+  - communication
+  - preparedness
+  - household-service
+  - planning
+
+why_it_matters: >
+  Families need a plan for staying in contact when normal communication fails.
+  A PACE plan trains foresight, responsibility, and calm preparation.
+
+instructions:
+  - Learn what PACE means: Primary, Alternate, Contingency, and Emergency.
+  - Interview a parent about three realistic situations where family communication might fail.
+  - Create a family communication chart with one primary, alternate, contingency, and emergency method.
+  - Include important phone numbers, meeting places, and rules for when to use each method.
+  - Present the plan to the family and ask for corrections.
+
+deliverables:
+  - Family PACE chart
+  - List of three realistic scenarios
+  - Short presentation to the household
+  - Revised final version after parent feedback
+
+evidence_required:
+  - image_or_pdf
+  - text
+  - parent_observation
+
+finished_means: >
+  The student creates and presents a complete PACE communication chart,
+  revises it after parent feedback, and posts or stores the final plan where the family can access it.
+
+parent_notes: >
+  Review all contact information before approving. This should become a useful household document,
+  not merely an academic exercise.
+
+safety_notes: >
+  Do not include private family information in any public portfolio version.

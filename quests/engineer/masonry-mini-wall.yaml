@@ -1,0 +1,50 @@
+id: quest.engineer.masonry_mini_wall.v1
+title: Build a Mini Masonry Wall
+archetype: Engineer
+theme: Work, Craft, and Stewardship
+duration: 1 week
+difficulty: 4
+estimated_time: 240
+source_module: Masonry
+tags:
+  - engineering
+  - construction
+  - craft
+  - geometry
+  - household-service
+
+why_it_matters: >
+  Masonry teaches patience, order, strength, proportion, and the dignity of durable work.
+  The student learns that good building requires both hands and judgment.
+
+instructions:
+  - Learn basic masonry terms: brick, mortar, course, joint, level, plumb, and bond.
+  - With parent approval, choose a small practice project using bricks, blocks, stones, or a safe substitute.
+  - Sketch the planned mini wall or structure before building.
+  - Measure the base and estimate the number of materials needed.
+  - Build a small practice wall or dry-stack structure.
+  - Check whether it is level, stable, and orderly.
+  - Write a short reflection on what made the work difficult.
+
+deliverables:
+  - Planning sketch
+  - Materials estimate
+  - Photo of finished mini wall or structure
+  - Short reflection
+
+evidence_required:
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  The student plans, measures, builds, photographs, and evaluates a small masonry structure
+  or dry-stack practice wall under parent supervision.
+
+parent_notes: >
+  A dry-stack version is acceptable for younger students or if mortar is impractical.
+  This is about craft, attention, and structural judgment.
+
+safety_notes: >
+  Parent supervision required. Use gloves and eye protection as appropriate.
+  Avoid heavy lifting beyond the student’s ability.
