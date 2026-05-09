@@ -351,7 +351,52 @@ why_it_matters: >
   Learning the phonetic alphabet trains precision, calm speech, and disciplined attention.
 ```
 
-### 7. Keep field names stable
+### 7. Add blank lines before array fields after block scalars
+
+When an array field follows a block scalar field (like `why_it_matters: >`), add a blank line to ensure proper YAML parsing.
+
+Good:
+
+```yaml
+why_it_matters: >
+  This is a multi-line text field.
+  It can span several lines.
+
+instructions:
+  - First instruction.
+  - Second instruction.
+```
+
+Bad:
+
+```yaml
+why_it_matters: >
+  This is a multi-line text field.
+  It can span several lines.
+instructions:
+  - First instruction.
+  - Second instruction.
+```
+
+### 8. Escape quotes in strings using single quotes
+
+If a string contains double quotes, wrap the entire string in single quotes.
+
+Good:
+
+```yaml
+instructions:
+  - 'Create a chart with "Risks" and "Benefits" columns.'
+```
+
+Bad:
+
+```yaml
+instructions:
+  - Create a chart with "Risks" and "Benefits" columns.
+```
+
+### 9. Keep field names stable
 
 Use:
 
@@ -372,7 +417,7 @@ notes_for_parent:
 required_evidence:
 ```
 
-### 8. Run schema validation before importing when possible
+### 10. Run schema validation before importing when possible
 
 Quest files should validate against:
 
