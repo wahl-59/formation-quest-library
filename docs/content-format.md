@@ -396,7 +396,27 @@ instructions:
   - Create a chart with "Risks" and "Benefits" columns.
 ```
 
-### 9. Keep field names stable
+### 9. Quote strings containing colons
+
+If a string contains a colon (:), wrap the entire string in single quotes to prevent YAML from interpreting it as a mapping.
+
+Good:
+
+```yaml
+instructions:
+  - 'Create a two-column chart: "Rights Protected" and "Duties Required."'
+  - 'Write one paragraph answering: Why is it dangerous when rulers are not under law?'
+```
+
+Bad:
+
+```yaml
+instructions:
+  - Create a two-column chart: "Rights Protected" and "Duties Required."
+  - Write one paragraph answering: Why is it dangerous when rulers are not under law?
+```
+
+### 10. Keep field names stable
 
 Use:
 
@@ -417,7 +437,7 @@ notes_for_parent:
 required_evidence:
 ```
 
-### 10. Run schema validation before importing when possible
+### 11. Run schema validation before importing when possible
 
 Quest files should validate against:
 
@@ -437,6 +457,7 @@ Before importing a Quest or Misogi:
 
 - [ ] File is valid YAML.
 - [ ] Title is quoted if it contains a colon.
+- [ ] Strings containing colons are wrapped in single quotes.
 - [ ] No blank lines inside list fields.
 - [ ] Required fields are present.
 - [ ] Quest includes `tags`.
