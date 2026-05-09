@@ -18,7 +18,7 @@ why_it_matters: >
   This quest turns passive entertainment into active craftsmanship.
 
 instructions:
-  - 'Choose a very simple game idea: maze, quiz, catcher, obstacle dodge, or text adventure.
+  - 'Choose a very simple game idea: maze, quiz, catcher, obstacle dodge, or text adventure.'
   - Write the goal of the game in one sentence.
   - Sketch the screen or interaction on paper before coding.
   - Build a tiny playable prototype using Scratch, Python, JavaScript, or another parent-approved tool.
