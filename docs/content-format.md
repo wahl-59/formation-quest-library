@@ -119,6 +119,40 @@ Kicker Quest FINAL.yaml
 2026-05-05-placekicker.yaml
 ```
 
+### Quest Difficulty and Time
+
+Use one of these difficulty labels:
+
+- `beginner`
+- `intermediate`
+- `advanced`
+
+When converting older numeric difficulty values, use this mapping:
+
+- `1` becomes `beginner`
+- `2` becomes `intermediate`
+- `3` or higher becomes `advanced`
+
+Use `estimated_time` for the estimated total time required, stored as a plain integer number of minutes.
+
+Good:
+
+```yaml
+difficulty: intermediate
+estimated_time: 150
+```
+
+Avoid:
+
+```yaml
+difficulty: 2
+estimated_time: 2.5
+estimated_time: 150 minutes
+estimated_time: 60-90 min
+```
+
+When converting older time estimates, convert hour-style values to minutes before committing. For example, `1.5` means 90 minutes, `3` means 180 minutes, `150` means 150 minutes, and `240 minutes` becomes `240`. For ranges like `60-90 min`, use the upper bound, so `60-90 min` becomes `90`.
+
 ## Sample Quest
 
 ```yaml
@@ -127,7 +161,7 @@ title: "Fungi: Teaching the Hidden Kingdom"
 archetype: Naturalist-Teacher
 theme: Creation and Wonder
 duration: 1 week
-difficulty: 3
+difficulty: advanced
 estimated_time: 240
 source_module: Nature Study
 tags:
@@ -461,6 +495,8 @@ Before importing a Quest or Misogi:
 - [ ] No blank lines inside list fields.
 - [ ] Required fields are present.
 - [ ] Quest includes `tags`.
+- [ ] Quest `difficulty` is `beginner`, `intermediate`, or `advanced`.
+- [ ] Quest `estimated_time` is a plain integer number of minutes.
 - [ ] `instructions` is a YAML list.
 - [ ] `deliverables` is a YAML list.
 - [ ] `evidence_required` is a YAML list.

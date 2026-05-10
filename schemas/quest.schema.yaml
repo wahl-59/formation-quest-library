@@ -44,13 +44,17 @@ properties:
     description: Expected quest duration. Usually "1 week".
 
   difficulty:
-    type: integer
-    minimum: 1
-    maximum: 5
+    type: string
+    description: Difficulty label. Legacy numeric values map as 1 = beginner, 2 = intermediate, 3 or higher = advanced.
+    enum:
+      - beginner
+      - intermediate
+      - advanced
 
   estimated_time:
     type: integer
-    description: Estimated total minutes required.
+    minimum: 1
+    description: Estimated total minutes required. Store as a plain integer number of minutes.
 
   source_module:
     type: string
