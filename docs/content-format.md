@@ -123,22 +123,22 @@ Kicker Quest FINAL.yaml
 
 Use one of these difficulty labels:
 
-- `beginner`
-- `intermediate`
-- `advanced`
+- `Beginner`
+- `Intermediate`
+- `Advanced`
 
 When converting older numeric difficulty values, use this mapping:
 
-- `1` becomes `beginner`
-- `2` becomes `intermediate`
-- `3` or higher becomes `advanced`
+- `1` becomes `Beginner`
+- `2` becomes `Intermediate`
+- `3` or higher becomes `Advanced`
 
 Use `estimated_time` for the estimated total time required, stored as a plain integer number of minutes.
 
 Good:
 
 ```yaml
-difficulty: intermediate
+difficulty: Intermediate
 estimated_time: 150
 ```
 
@@ -161,7 +161,7 @@ title: "Fungi: Teaching the Hidden Kingdom"
 archetype: Naturalist-Teacher
 theme: Creation and Wonder
 duration: 1 week
-difficulty: advanced
+difficulty: Advanced
 estimated_time: 240
 source_module: Nature Study
 tags:
@@ -495,7 +495,7 @@ Before importing a Quest or Misogi:
 - [ ] No blank lines inside list fields.
 - [ ] Required fields are present.
 - [ ] Quest includes `tags`.
-- [ ] Quest `difficulty` is `beginner`, `intermediate`, or `advanced`.
+- [ ] Quest `difficulty` is `Beginner`, `Intermediate`, or `Advanced`.
 - [ ] Quest `estimated_time` is a plain integer number of minutes.
 - [ ] `instructions` is a YAML list.
 - [ ] `deliverables` is a YAML list.
