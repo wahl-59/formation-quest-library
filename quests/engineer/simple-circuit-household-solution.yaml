@@ -3,7 +3,7 @@ title: Simple Circuit Household Solution
 archetype: Engineer
 theme: Home, Place, and Service
 duration: 1 week
-difficulty: 3
+difficulty: Intermediate
 estimated_time: 180
 source_modules:
   - Circuits
@@ -16,7 +16,7 @@ tags:
   - problem-solving
   - physics
 
-why_it_matters:
+why_it_matters: >
   A good engineer notices small problems and builds useful solutions. This quest teaches the student
   to use a simple circuit not as a toy, but as a practical tool for serving the household.
 
@@ -41,17 +41,17 @@ evidence_required:
   - text
   - parent_observation
 
-finished_means:
+finished_means: >
   The student identifies a real household need, builds a safe low-voltage circuit that helps address it,
   documents the circuit with a diagram and test notes, makes one improvement, and explains the result
   to a parent.
 
-parent_notes:
+parent_notes: >
   Keep the project simple. Good examples include a reading-light prototype, cabinet reminder light,
   drawer-open signal, pantry-location light, simple door buzzer demonstration, or model emergency signal.
   The goal is not a polished product; the goal is to connect circuit knowledge to useful household service.
 
-safety_notes:
+safety_notes: >
   Parent supervision required. Use only safe low-voltage batteries. Do not use wall outlets, mains power,
   exposed household wiring, lithium battery packs, damaged batteries, or anything connected to the home
   electrical system.
