@@ -1,0 +1,57 @@
+id: quest.engineer.simple_circuit_household_solution.v1
+title: Simple Circuit Household Solution
+archetype: Engineer
+theme: Home, Place, and Service
+duration: 1 week
+difficulty: 3
+estimated_time: 180
+source_modules:
+  - Circuits
+  - Engineer Course
+tags:
+  - engineering
+  - electronics
+  - circuits
+  - household-service
+  - problem-solving
+  - physics
+
+why_it_matters: >
+  A good engineer notices small problems and builds useful solutions. This quest teaches the student
+  to use a simple circuit not as a toy, but as a practical tool for serving the household.
+
+instructions:
+  - Find one small household problem that could be helped by a simple light, buzzer, switch, or signal.
+  - Sketch the problem and explain who it affects.
+  - Build a simple circuit using safe low-voltage materials such as a battery, wires, switch, LED, small bulb, or buzzer.
+  - Draw a basic circuit diagram showing the battery, wires, switch, and output device.
+  - Test the circuit at least three times and record whether it worked.
+  - Make one improvement to the design after testing.
+  - Write a short reflection explaining the problem, the circuit, the improvement, and whether it was useful.
+
+deliverables:
+  - Problem sketch or written problem statement
+  - Basic circuit diagram
+  - Working simple circuit
+  - Test notes from at least three trials
+  - Short written reflection
+
+evidence_required:
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  The student identifies a real household need, builds a safe low-voltage circuit that helps address it,
+  documents the circuit with a diagram and test notes, makes one improvement, and explains the result
+  to a parent.
+
+parent_notes: >
+  Keep the project simple. Good examples include a reading-light prototype, cabinet reminder light,
+  drawer-open signal, pantry-location light, simple door buzzer demonstration, or model emergency signal.
+  The goal is not a polished product; the goal is to connect circuit knowledge to useful household service.
+
+safety_notes: >
+  Parent supervision required. Use only safe low-voltage batteries. Do not use wall outlets, mains power,
+  exposed household wiring, lithium battery packs, damaged batteries, or anything connected to the home
+  electrical system.
