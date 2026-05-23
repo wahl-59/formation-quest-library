@@ -1,0 +1,45 @@
+id: quest.field_science.survey_creek_cross_section.v1
+title: Survey a Creek Cross-Section
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  A creek is not merely water moving downhill. It has shape, banks, bed, roughness, and memory. Surveying a cross-section trains the student to see form.
+
+instructions:
+  - Choose a permanent cross-section near the monitoring station with parent approval.
+  - Mark or document both endpoints so the cross-section can be repeated later.
+  - Measure channel width, wetted width, water depths at intervals, bank shape, and visible bed material.
+  - Sketch the cross-section and photograph both banks.
+  - Write a short description of vegetation, erosion, deposition, woody debris, and flow conditions.
+
+deliverables:
+  - Cross-section field notes
+  - Simple cross-section drawing
+  - Photos from both banks
+  - Description of bed, banks, vegetation, and flow
+
+evidence_required:
+  - text
+  - image
+  - image_or_pdf
+  - parent_observation
+
+finished_means: >
+  The student produces a clear enough cross-section record that it can be repeated later and compared after a storm.
+
+parent_notes: >
+  A tape, rod, string, stakes, and careful notes are enough. A laser level or builder level is useful but not required.
+
+safety_notes: >
+  Do not survey in swift, deep, cold, rising, icy, or storm-affected water.

@@ -1,0 +1,43 @@
+id: quest.field_science.adopt_creek_reach.v1
+title: Adopt a Creek Reach
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Beginner
+estimated_time: 90
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  The student begins by meeting a real place rather than starting with abstractions. A faithful field scientist first learns the boundaries, hazards, features, and questions of the place under observation.
+
+instructions:
+  - Walk the creek reach with a parent and observe silently for the first few minutes.
+  - Identify the weir, safe access points, unsafe areas, possible photo points, and possible instrument locations.
+  - Make a hand-drawn map and record the first questions the creek raises.
+  - Write the first field notebook entry with date, time, weather, and observations.
+
+deliverables:
+  - Hand-drawn reach map
+  - First field notebook entry
+  - List of 5-10 questions about the creek
+  - Parent-approved safety boundary
+
+evidence_required:
+  - text
+  - image
+  - parent_observation
+
+finished_means: >
+  The student can point to the adopted reach, explain where work may safely occur, and name the first questions the field station will try to answer.
+
+parent_notes: >
+  The parent should define the physical boundaries of the project before any instrument installation or water access occurs.
+
+safety_notes: >
+  No solo creek work. No entering high water. No climbing on slippery structures or unstable banks.

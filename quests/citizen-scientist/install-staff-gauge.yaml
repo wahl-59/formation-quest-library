@@ -1,0 +1,44 @@
+id: quest.field_science.install_staff_gauge.v1
+title: Install a Staff Gauge at the Weir
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  A fixed stage reference gives the creek a repeatable voice. The student learns that measurement requires consistency, not just curiosity.
+
+instructions:
+  - Choose a safe, stable gauge location at or near the weir with parent approval.
+  - Install or mark a staff gauge so it can be read from a safe position.
+  - Photograph the gauge and sketch its location on the site map.
+  - Take the first five stage readings and record units, date, time, and observer.
+  - Write a short reading protocol that explains how to avoid parallax and guesswork.
+
+deliverables:
+  - Photo of staff gauge
+  - Gauge location sketch
+  - First five stage readings
+  - Written reading protocol
+
+evidence_required:
+  - text
+  - image
+  - parent_observation
+
+finished_means: >
+  The student can read the gauge consistently and explain the method well enough that another person could repeat it.
+
+parent_notes: >
+  A commercial staff gauge is not required. A securely mounted marked board or ruler may be enough if it is stable and clearly referenced.
+
+safety_notes: >
+  Installation must occur only in low, safe water conditions. Parent judgment controls access to the weir and creek bank.

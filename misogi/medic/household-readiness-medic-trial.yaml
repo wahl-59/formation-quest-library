@@ -3,7 +3,7 @@ title: Household Readiness Medic Trial
 archetype: Protector-Medic
 theme: Home, Place, and Service
 duration_weeks: 8
-difficulty: 4
+difficulty: Intermediate
 estimated_total_hours: 20
 source_modules:
   - Basic First Aid

@@ -1,0 +1,45 @@
+id: quest.field_science.make_simple_hydrograph.v1
+title: Make a Simple Hydrograph
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 90
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  A hydrograph makes the creek visible through time. The student learns to turn repeated measurements into a truthful picture and then speak modestly about what the picture means.
+
+instructions:
+  - Gather manual readings or logger data for stream stage over a selected time period.
+  - Create a graph of stream stage over time on paper, in a spreadsheet, or with another approved tool.
+  - Add rainfall notes or rainfall data if available.
+  - Mark at least one peak, low period, or notable change.
+  - Write a three-sentence interpretation and one sentence naming a limitation of the data.
+
+deliverables:
+  - Stage graph
+  - Rainfall notes or rainfall graph
+  - Marked storm peak or notable feature
+  - Short interpretation with limitation
+
+evidence_required:
+  - image_or_pdf
+  - file
+  - text
+  - parent_observation
+
+finished_means: >
+  The student can explain what the graph shows and identify at least one limitation in the data.
+
+parent_notes: >
+  A hand-drawn graph is acceptable. Do not require software if the student can make a clear graph by hand.
+
+safety_notes: >
+  None.

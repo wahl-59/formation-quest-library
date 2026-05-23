@@ -1,0 +1,44 @@
+id: quest.field_science.measure_groundwater_by_hand.v1
+title: Measure Groundwater by Hand
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 90
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  Groundwater is the hidden half of the water story. Measuring it teaches the student that what is unseen can still be real, ordered, and connected to the visible creek.
+
+instructions:
+  - Identify one or more parent-approved shallow monitoring wells or piezometers.
+  - Record the location, reference point, date, time, and measurement method.
+  - Measure depth to water using a chalked tape, water-level tape, or approved homemade probe.
+  - Compare groundwater depth or elevation with creek stage from the same day.
+  - Write a short note on whether groundwater appears higher, lower, or similar to creek stage.
+
+deliverables:
+  - Well location sketch
+  - Manual groundwater readings
+  - Measurement method description
+  - First comparison of groundwater and creek stage
+
+evidence_required:
+  - text
+  - image
+  - parent_observation
+
+finished_means: >
+  The student can explain whether groundwater appears higher, lower, or similar to creek stage at the time of measurement and can describe the limits of that claim.
+
+parent_notes: >
+  This Quest may be skipped if no safe shallow well or piezometer is available.
+
+safety_notes: >
+  Parent must approve any well installation. No deep drilling. No potable-water claims. Keep wells capped and marked.

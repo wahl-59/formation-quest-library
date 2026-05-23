@@ -1,0 +1,45 @@
+id: quest.field_science.capture_storm_event.v1
+title: Capture a Storm Event
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  A storm reveals the creek in motion. The student learns to watch patiently, act prudently, and read the relationship between sky, land, groundwater, and stream.
+
+instructions:
+  - Choose one rain event to observe safely.
+  - Record rainfall, stream stage, photos, water clarity, and field notes before, during, and after the event when possible.
+  - Mark the time of the highest observed stage or logger peak if available.
+  - Write a short account of how quickly the creek rose and recovered.
+
+deliverables:
+  - Rainfall total
+  - Stage readings or logger graph
+  - Before and after photos
+  - Storm-event field note
+  - Short interpretation
+
+evidence_required:
+  - text
+  - image
+  - file_or_link
+  - parent_observation
+
+finished_means: >
+  The student can tell the story of one storm: when rain came, how the creek rose, when it peaked, and how it recovered.
+
+parent_notes: >
+  Observation from indoors or from a safe window is acceptable. The goal is faithfulness, not recklessness.
+
+safety_notes: >
+  No fieldwork during lightning, flooding, high winds, darkness, icy conditions, or unsafe travel.

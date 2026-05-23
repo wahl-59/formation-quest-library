@@ -1,0 +1,43 @@
+id: quest.field_science.build_field_notebook.v1
+title: Build the Field Notebook
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Beginner
+estimated_time: 60
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  Trustworthy science begins with faithful records. A field notebook trains the student to notice carefully, write plainly, and preserve evidence for later judgment.
+
+instructions:
+  - Create a notebook format for date, time, weather, location, measurements, units, sketches, photos, questions, and corrections.
+  - Make three practice entries using observations from the creek or yard.
+  - Include one labeled sketch of the creek, weir, rain gauge location, or another field feature.
+  - Ask a parent to review the notebook for legibility and completeness.
+
+deliverables:
+  - Field notebook template
+  - Three practice entries
+  - One labeled field sketch
+  - Parent review note
+
+evidence_required:
+  - text
+  - image
+  - parent_observation
+
+finished_means: >
+  The notebook is ready for field use and has enough structure that another person could understand the observations later.
+
+parent_notes: >
+  Encourage neatness but do not make the notebook precious. A working field notebook may be muddy, revised, and imperfect as long as it is honest and usable.
+
+safety_notes: >
+  None.

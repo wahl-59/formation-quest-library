@@ -1,0 +1,61 @@
+id: quest.household_steward.family_meal_steward.v1
+title: Family Meal Steward
+archetype: Household Steward
+theme: Hospitality and Responsibility
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 300
+source_modules:
+  - Household Life
+tags:
+  - cooking
+  - hospitality
+  - budgeting
+  - household-service
+  - life-skills
+  - family
+
+why_it_matters: >
+  Feeding a household is an act of practical love. This Quest trains the student to plan ahead,
+  count the cost, work with his or her hands, serve others, and take responsibility for a real family need.
+
+instructions:
+  - Choose one family meal to plan, prepare, and serve during the week with parent approval.
+  - Ask the parent about family schedule, dietary restrictions, allergies, budget limits, and kitchen rules before planning.
+  - Plan a complete meal that includes a main dish, at least one side, and a drink or simple dessert if appropriate.
+  - Write a grocery list with estimated prices and calculate the expected total before shopping.
+  - Shop for the groceries, compare prices when possible, and stay within the approved budget.
+  - Save the receipt and compare the actual total with the planned budget.
+  - Prepare the meal, including washing produce, measuring ingredients, cooking safely, and cleaning as you go.
+  - Set the table or serving area before the meal.
+  - Serve the meal to the whole family and invite them to begin together with gratitude.
+  - Clean up the kitchen and eating area after the meal.
+  - Ask each family member for one appreciation and one suggestion, then write a short reflection on what you learned.
+
+deliverables:
+  - Meal plan
+  - Grocery list with estimated prices
+  - Grocery receipt or final cost record
+  - Photo of the prepared meal or table
+  - Short student reflection
+  - Parent observation of planning, cooking, serving, and cleanup
+
+evidence_required:
+  - text
+  - image_or_pdf
+  - parent_observation
+
+finished_means: >
+  The Quest is complete when the student has planned an approved family meal, created and followed
+  a grocery budget, purchased the ingredients with supervision, prepared and safely served the meal
+  to the whole family, cleaned up afterward, and submitted the required evidence and reflection.
+
+parent_notes: >
+  The parent should approve the menu, budget, shopping plan, and level of kitchen independence before
+  the student begins. The goal is not a perfect meal. The goal is responsible service: planning,
+  stewardship, safe work, hospitality, and willingness to receive feedback.
+
+safety_notes: >
+  Parent supervision is required for knives, stovetops, ovens, raw meat, hot pans, and any unfamiliar
+  kitchen equipment. Follow all allergy and food safety rules, including handwashing, safe food
+  temperatures, and preventing cross-contamination.

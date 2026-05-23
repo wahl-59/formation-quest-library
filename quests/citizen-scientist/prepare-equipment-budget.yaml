@@ -1,0 +1,44 @@
+id: quest.field_science.prepare_equipment_budget.v1
+title: Prepare an Equipment Budget
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 90
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - equipment
+  - budget
+  - prudence
+
+why_it_matters: >
+  Good fieldwork requires prudence. The student learns that every instrument has a cost in money, maintenance, complexity, and attention.
+
+instructions:
+  - 'Prepare three equipment plans: hand-measurement only, modest instrumented station, and advanced station.'
+  - For each plan, list what can be measured, what cannot be measured, and what must be maintained.
+  - Estimate costs using parent-approved sources or broad price ranges.
+  - Recommend one plan to the parent and explain the tradeoffs.
+
+deliverables:
+  - Three-tier equipment list
+  - Estimated cost ranges
+  - Capability and limitation notes
+  - Recommendation to parents
+
+evidence_required:
+  - text
+  - file_or_link
+  - parent_observation
+
+finished_means: >
+  The student can explain the tradeoff between cost, accuracy, labor, maintenance, and continuity of record.
+
+parent_notes: >
+  This Quest helps keep the project sane. A good notebook and consistent readings may be more valuable than an expensive sensor no one maintains.
+
+safety_notes: >
+  Parents make all purchasing decisions.

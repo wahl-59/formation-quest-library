@@ -1,0 +1,46 @@
+id: quest.field_science.calibrate_pressure_transducer.v1
+title: Calibrate a Pressure Transducer
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Advanced
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - instrumentation
+  - calibration
+
+why_it_matters: >
+  Instruments are servants, not oracles. Calibration teaches the student to test machine readings against hand measurements and to distrust easy certainty.
+
+instructions:
+  - Install a pressure transducer or water-level logger in a protected location with parent supervision.
+  - Record instrument name, serial number if available, time zone, logging interval, units, deployment depth, and installation location.
+  - Take at least five paired manual staff-gauge readings and logger readings.
+  - Compare the paired readings and write down any offset, drift, or correction needed.
+  - Document any problems such as fouling, air pressure correction, loose cables, or unsafe placement.
+
+deliverables:
+  - Instrument setup sheet
+  - Installation photo
+  - Paired manual and logger readings
+  - Calibration or correction note
+
+evidence_required:
+  - text
+  - image
+  - file
+  - parent_observation
+
+finished_means: >
+  The student has a working logger record or a clear explanation of why the logger did not work, plus paired hand readings that reveal whether the instrument agrees with reality.
+
+parent_notes: >
+  This Quest is optional and should be used only when a family has suitable equipment and adult technical support.
+
+safety_notes: >
+  Protect cables and sensors from tripping, vandalism, wildlife, debris, and high-flow damage. No student should install instruments alone or during unsafe water conditions.

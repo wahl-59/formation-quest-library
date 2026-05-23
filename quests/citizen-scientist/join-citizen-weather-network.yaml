@@ -1,0 +1,45 @@
+id: quest.field_science.join_citizen_weather_network.v1
+title: Join a Citizen-Science Weather Community
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - weather
+  - citizen-science
+  - community
+
+why_it_matters: >
+  Local observations can serve neighbors. This Quest helps the student see that faithful private measurements may become part of a larger public record.
+
+instructions:
+  - Research one citizen-science weather network such as CoCoRaHS, CWOP, a local mesonet, or a National Weather Service observer pathway.
+  - Identify participation requirements, equipment needs, privacy concerns, and reporting expectations.
+  - With parent approval, either join, prepare to join, or recommend not joining for now.
+  - If joining or practicing, submit or simulate one observation using the network format.
+  - Write a short reflection on the difference between private notes and public data.
+
+deliverables:
+  - One-page network comparison
+  - Parent-approved participation decision
+  - Submitted or practice observation
+  - Reflection on private notes and public data
+
+evidence_required:
+  - text
+  - image_or_pdf
+  - parent_observation
+
+finished_means: >
+  The student understands whether participation is feasible and can explain the duties that come with contributing public environmental observations.
+
+parent_notes: >
+  This is a customization Quest. It should not become an internet rabbit hole or a requirement for families that need to keep observations private.
+
+safety_notes: >
+  Parents must approve all account creation, location sharing, public data submission, and communication with outside organizations.

@@ -1,0 +1,45 @@
+id: quest.field_science.install_rain_gauge.v1
+title: Install a Rain Gauge
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Beginner
+estimated_time: 90
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - weather
+  - rainfall
+  - citizen-science
+
+why_it_matters: >
+  Rainfall is the beginning of the creek story. By measuring rain daily, the student learns that even ordinary weather is part of a larger pattern of gift, motion, and response.
+
+instructions:
+  - Choose a rain gauge location away from roof drip, trees, and obvious obstructions.
+  - Install the gauge securely and photograph its location.
+  - Write a short note explaining why the location was chosen.
+  - Record seven days of precipitation readings, including zero-rain days.
+  - 'Optional: with parent approval, investigate CoCoRaHS or another citizen precipitation network.'
+
+deliverables:
+  - Photo of installed rain gauge
+  - Site note explaining the location
+  - Seven-day precipitation log
+  - Optional citizen-science participation note
+
+evidence_required:
+  - text
+  - image
+  - parent_observation
+
+finished_means: >
+  The student has a functioning rainfall record and understands that no rain is still a valid observation.
+
+parent_notes: >
+  Manual rain gauges are sufficient. A logging rain gauge or weather station is useful but not required.
+
+safety_notes: >
+  Place the gauge where the student can read it safely in ordinary weather without entering hazardous areas.

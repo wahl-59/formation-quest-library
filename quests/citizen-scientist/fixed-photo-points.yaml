@@ -1,0 +1,43 @@
+id: quest.field_science.fixed_photo_points.v1
+title: Establish Fixed Photo Points
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Beginner
+estimated_time: 75
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - stewardship
+
+why_it_matters: >
+  Photographs become a visual memory for the place. Repeated from the same position, they help the student see change that would otherwise pass unnoticed.
+
+instructions:
+  - Choose 3-5 fixed photo points for the weir, staff gauge, cross-section, banks, and upstream or downstream views.
+  - Mark, map, or describe each photo point so another person can find it.
+  - Take the first photo set and record date, time, direction, and purpose.
+  - Write a repeat-photo protocol for future visits.
+
+deliverables:
+  - Photo-point map
+  - First photo set
+  - Captions with direction, date, time, and purpose
+  - Repeat-photo protocol
+
+evidence_required:
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  Another person could stand in the same locations and retake the same photos later.
+
+parent_notes: >
+  Use fixed photo points before and after storm events. They provide strong evidence even when instruments fail or are unavailable.
+
+safety_notes: >
+  Photo points should not require climbing, wading, crossing unstable banks, or standing close to hazardous water.

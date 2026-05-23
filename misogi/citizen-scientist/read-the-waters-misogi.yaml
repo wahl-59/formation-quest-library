@@ -1,0 +1,148 @@
+id: misogi.field_science.read_the_waters.v1
+title: Read the Waters
+archetype: Field Scientist
+theme: Field Data Collection
+duration_weeks: 10
+difficulty: Advanced
+estimated_total_hours: 30
+source_modules:
+  - Field Science
+  - Environmental Engineering
+  - Wahlstead
+  - Read the Waters
+tags:
+  - field-science
+  - hydrology
+  - weather
+  - streamflow
+  - stewardship
+  - data-collection
+  - dashboard
+
+formation_goal: >
+  The student becomes a faithful observer and steward of a real place by learning to measure water, weather, landform, and change with humility, patience, and technical care.
+
+description: >
+  The student adopts a creek reach at Wahlstead, establishes a small field station at the weir, keeps a field notebook, collects weather and stream observations, validates instruments with hand measurements, documents channel form, studies at least one storm event, and presents the story of what the creek did during the period of record.
+
+why_it_matters: >
+  Field science trains the student to obey reality. The creek will not flatter sloppy notes, careless installation, or imagined conclusions. This Misogi forms attention, patience, prudence, craftsmanship, and the ability to give truthful testimony about a place.
+
+weekly_milestones:
+  - week: 1
+    title: Adopt the Creek Reach
+    description: >
+      Walk the reach with a parent, choose safe boundaries, identify the weir station, and begin the field notebook with sketches, questions, hazards, and first observations.
+    finished_means: >
+      The student has a parent-approved field boundary, first map sketch, first notebook entry, and a list of questions the field station will try to answer.
+  - week: 2
+    title: Build the Field Map
+    description: >
+      Establish the weir station, possible staff gauge location, rain gauge location, cross-section, fixed photo points, and any possible groundwater monitoring locations.
+    finished_means: >
+      The student has a legible site map showing the monitoring locations and can explain why each location was chosen.
+  - week: 3
+    title: Install the Simple Instruments
+    description: >
+      Install the rain gauge, staff gauge, photo-point markers, and any available data loggers or basic weather instruments.
+    finished_means: >
+      The student has installed the approved instruments, photographed them, and written a repeatable reading protocol.
+  - week: 4
+    title: Begin Calibration and Validation
+    description: >
+      Take hand readings and compare them against instrument readings. Check time settings, units, sensor placement, and possible sources of error.
+    finished_means: >
+      The student has at least five paired hand and instrument readings or, if no instruments are available, a clearly documented manual reading routine.
+  - week: 5
+    title: Survey the Cross-Section
+    description: >
+      Measure a permanent creek cross-section, sketch the channel, photograph the banks, and record bed material, vegetation, water depth, and visible flow conditions.
+    finished_means: >
+      The student has a repeatable cross-section record that can be compared against future measurements.
+  - week: 6
+    title: Add Groundwater or Water Quality Observations
+    description: >
+      Depending on available equipment, measure shallow groundwater, water temperature, clarity, conductivity, pH, or other basic water-quality indicators without overstating the precision of the tools.
+    finished_means: >
+      The student has added one additional observation stream beyond rainfall and creek stage and has explained its limitations.
+  - week: 7
+    title: Capture a Storm Event
+    description: >
+      Observe one rain event safely, recording rainfall, stage response, photos, water clarity, and notes before, during, and after the event when possible.
+    finished_means: >
+      The student has a storm-event record with rainfall, stage observations or logger data, photos, and a short interpretation.
+  - week: 8
+    title: Clean and Organize the Data
+    description: >
+      Review the field notebook, data logs, photos, and spreadsheets. Flag missing data, suspicious readings, instrument problems, and corrected values.
+    finished_means: >
+      The student has an organized project folder and a cleaned data table with notes about uncertainty and corrections.
+  - week: 9
+    title: Interpret the Record
+    description: >
+      Make graphs, compare rainfall to creek response, identify peaks and recovery periods, and describe what remains unknown.
+    finished_means: >
+      The student has at least one hydrograph or time-series graph and a written explanation of what the record suggests.
+  - week: 10
+    title: Tell the Story of the Creek
+    description: >
+      Present the station, notebook, map, measurements, photos, graphs, uncertainties, and recommendations for future monitoring.
+    finished_means: >
+      The student gives a 5-10 minute presentation and submits the final portfolio artifact for parent review.
+
+linked_quest_ideas:
+  - quest.field_science.adopt_creek_reach.v1
+  - quest.field_science.build_field_notebook.v1
+  - quest.field_science.install_rain_gauge.v1
+  - quest.field_science.install_staff_gauge.v1
+  - quest.field_science.calibrate_pressure_transducer.v1
+  - quest.field_science.survey_creek_cross_section.v1
+  - quest.field_science.fixed_photo_points.v1
+  - quest.field_science.measure_groundwater_by_hand.v1
+  - quest.field_science.basic_water_quality_observations.v1
+  - quest.field_science.capture_storm_event.v1
+  - quest.field_science.make_simple_hydrograph.v1
+  - quest.field_science.build_field_station_dashboard.v1
+  - quest.field_science.join_citizen_weather_network.v1
+  - quest.field_science.contact_water_quality_professional.v1
+  - quest.field_science.prepare_equipment_budget.v1
+  - quest.field_science.tell_story_of_creek.v1
+
+final_artifact: >
+  A field station portfolio containing the field notebook, site map, equipment list, instrument protocols, selected raw and cleaned data, cross-section record, photo-point sequence, storm-event record, graphs, and final interpretation.
+
+final_demonstration: >
+  The student gives a 5-10 minute presentation called The Story of This Creek, explaining what was measured, what changed, what the student learned, what remains uncertain, and what should be watched next.
+
+evidence_required:
+  - project_notebook
+  - site_map
+  - field_photos
+  - data_table
+  - graph_or_dashboard
+  - final_reflection
+  - parent_observation
+
+parent_review_rubric:
+  complete:
+    - The student kept a dated field notebook with repeated observations and enough detail for another person to understand the work.
+    - The student collected rainfall and stream-stage observations by hand or instrument and validated readings when possible.
+    - The student produced a site map, at least one cross-section record, and at least one storm-event interpretation.
+    - The final presentation honestly distinguishes observation, interpretation, uncertainty, and speculation.
+  needs_revision:
+    - The student completed fieldwork but the records are incomplete, disorganized, or missing units, dates, times, or locations.
+    - The student made graphs or conclusions but did not explain data gaps, uncertainty, or instrument limitations.
+    - The final presentation needs clearer evidence or more careful interpretation.
+  incomplete:
+    - The student did not maintain a usable field notebook or collect repeated field observations.
+    - The student relied mainly on research or screens rather than direct measurements of the creek and weather.
+    - The final artifact does not show enough evidence to evaluate what was actually done.
+
+portfolio_description: >
+  I built and maintained a small field station at Wahlstead to observe rainfall, stream stage, channel form, and storm response. I kept a field notebook, took hand measurements, used available instruments, made graphs, and presented what the creek revealed during my period of record.
+
+parent_notes: >
+  The core Misogi should be possible with simple tools: notebook, rain gauge, staff gauge, tape, rod, camera, and spreadsheet. Pressure transducers, weather stations, groundwater loggers, citizen-science participation, dashboards, and professional outreach are valuable extensions but should not be required for families without the equipment, budget, or schedule.
+
+safety_notes: >
+  No student should work alone near water. No fieldwork should occur during lightning, high water, icy banks, darkness, or unsafe travel. Parents must approve installation methods, well locations, public data sharing, and any outreach to professionals or organizations.

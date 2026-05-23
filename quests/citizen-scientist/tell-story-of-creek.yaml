@@ -1,0 +1,46 @@
+id: quest.field_science.tell_story_of_creek.v1
+title: Tell the Story of the Creek
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - rhetoric
+  - portfolio
+  - stewardship
+
+why_it_matters: >
+  The work is not complete until the student gives truthful testimony. Speaking from evidence forms judgment, gratitude, and service.
+
+instructions:
+  - Select notebook excerpts, maps, graphs, photos, and field observations from the project.
+  - Prepare a 5-10 minute presentation called The Story of This Creek.
+  - Explain what was measured, what changed, what remains uncertain, and what should be watched next.
+  - Present to parents, another family, a mentor, or a small group.
+  - 'Submit a final reflection answering: What did the creek teach me?'
+
+deliverables:
+  - 5-10 minute presentation
+  - Site map
+  - At least one graph
+  - At least one photo sequence
+  - Final reflection
+
+evidence_required:
+  - audio_or_video_or_parent_observation
+  - image_or_pdf
+  - text
+
+finished_means: >
+  The student can explain what was measured, what changed, what remains uncertain, and what should be watched next.
+
+parent_notes: >
+  The presentation should reward clear evidence and honest judgment, not theatrical polish.
+
+safety_notes: >
+  Do not publish private property details, student identity, or exact station locations without parent approval.

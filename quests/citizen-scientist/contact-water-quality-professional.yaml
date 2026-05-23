@@ -1,0 +1,44 @@
+id: quest.field_science.contact_water_quality_professional.v1
+title: Contact a Local Water-Quality Professional
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - water-quality
+  - mentorship
+  - community
+
+why_it_matters: >
+  A student should learn from living people, not only from screens. Professional outreach trains humility, courtesy, preparation, and the courage to ask good questions.
+
+instructions:
+  - Identify a local professional, company, agency, professor, or technician involved in water monitoring, instrumentation, sampling, or environmental data collection.
+  - Draft a respectful email asking for advice, a short interview, a tour, equipment guidance, or possible support.
+  - Prepare five thoughtful questions before sending the email.
+  - Ask a parent to review and approve the message before it is sent.
+  - After any response, visit, or conversation, write a reflection on what was learned.
+
+deliverables:
+  - Draft email
+  - Parent-approved final email
+  - List of five questions
+  - Reflection after response or outreach attempt
+
+evidence_required:
+  - text
+  - parent_observation
+
+finished_means: >
+  The student has made one respectful, specific outreach attempt and can explain what he or she hoped to learn.
+
+parent_notes: >
+  YSI or another nearby water-quality company may be a strong candidate for a tour, advice, or donation inquiry, but the student should never sound entitled to free equipment.
+
+safety_notes: >
+  Parents must approve all external communication, facility visits, transportation, and sharing of personal or property information.

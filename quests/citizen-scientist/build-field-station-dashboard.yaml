@@ -1,0 +1,46 @@
+id: quest.field_science.build_field_station_dashboard.v1
+title: Build a Field Station Dashboard
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Advanced
+estimated_time: 180
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - dashboard
+  - data
+  - communication
+
+why_it_matters: >
+  A dashboard can serve others by making current conditions visible, but it must not hide uncertainty. The student learns that public displays of data require care and honesty.
+
+instructions:
+  - Choose at least two field variables to display, such as rainfall, stream stage, temperature, groundwater level, or photos.
+  - Build a simple dashboard using a spreadsheet, website, local file, or other parent-approved tool.
+  - Label units, data sources, and update frequency.
+  - Show missing data or manual entries honestly.
+  - Write a short note explaining what the dashboard helps a viewer understand.
+
+deliverables:
+  - Dashboard screenshot or link
+  - Description of data sources
+  - Update-frequency note
+  - Short explanation of usefulness and limitations
+
+evidence_required:
+  - file_or_link
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  The dashboard accurately displays at least two field variables and does not hide uncertainty, missing data, or manual entries.
+
+parent_notes: >
+  This Quest is optional. Do not let dashboard-building replace actual fieldwork.
+
+safety_notes: >
+  Do not publish exact private-property locations or student contact information unless parents approve.

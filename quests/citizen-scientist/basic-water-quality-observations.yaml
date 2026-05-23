@@ -1,0 +1,45 @@
+id: quest.field_science.basic_water_quality_observations.v1
+title: Observe Water Quality Without Pretending to Be a Lab
+archetype: Field Scientist
+theme: Field Data Collection
+duration: 1 week
+difficulty: Beginner
+estimated_time: 90
+source_modules:
+  - Field Science
+  - Read the Waters
+tags:
+  - field-science
+  - water-quality
+  - observation
+  - stewardship
+
+why_it_matters: >
+  Simple water-quality observations train humility. The student learns to describe what can actually be seen or measured without pretending that cheap tools prove more than they can.
+
+instructions:
+  - Record water temperature, clarity, color, odor, algae, sediment, foam, and visible pollution indicators.
+  - 'Optional: use pH strips, conductivity meter, turbidity tube, or other available tools.'
+  - Photograph water conditions and any notable features.
+  - Write one paragraph distinguishing observation from interpretation.
+  - If using a meter, record whether it was calibrated or checked.
+
+deliverables:
+  - Water-quality observation sheet
+  - Photos of water conditions
+  - Observation-versus-interpretation paragraph
+  - Optional meter calibration note
+
+evidence_required:
+  - text
+  - image
+  - parent_observation
+
+finished_means: >
+  The student can describe water conditions carefully without overstating what simple tools can prove.
+
+parent_notes: >
+  This is a screening and observation Quest, not a laboratory certification exercise.
+
+safety_notes: >
+  Do not drink creek water. Wash hands after sampling. Parent decides whether gloves, boots, or other protection are needed.
