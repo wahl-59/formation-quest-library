@@ -1,0 +1,58 @@
+id: quest.naturalist_steward.one_living_thing_carefully_known.v1
+title: One Living Thing Carefully Known
+archetype: Naturalist-Steward
+theme: Creation and Wonder
+duration: 1 week
+difficulty: Beginner
+estimated_time: 90
+source_modules:
+  - Nature Study
+  - Rangers of the Stead
+  - Area Intelligence/Area Study
+tags:
+  - nature-study
+  - observation
+  - stewardship
+  - art
+  - writing
+  - wahlstead
+
+why_it_matters: >
+  A Ranger learns to know her ground by slowing down and attending to what lives there.
+  This quest trains careful observation, gratitude, and love for the particular place entrusted
+  to the household.
+
+instructions:
+  - Choose one living thing at Wahlstead, such as a tree, flower, mushroom, bird, insect, moss, vine, garden plant, or animal track.
+  - Sit near it quietly for 10 to 15 minutes.
+  - Sketch it carefully or take one clear photo.
+  - Record where it was found, the date, the weather, and what was around it.
+  - Write notes about its color, size, shape, texture, sound, movement, smell, or surroundings.
+  - Make a serious attempt to identify it using a field guide, trusted adult, or parent-approved resource.
+  - 'Write one paragraph answering this question: What did I notice only because I slowed down?'
+  - Write one question you still have about this living thing.
+
+deliverables:
+  - Sketch or clear photo
+  - Observation notes
+  - Identification attempt
+  - One-paragraph reflection
+  - One unanswered question
+
+evidence_required:
+  - image
+  - text
+  - parent_observation
+
+finished_means: >
+  The student spends unhurried time observing one living thing at Wahlstead, creates a sketch or
+  photo with notes, makes a serious attempt to identify it, and writes a short reflection on what
+  careful attention revealed.
+
+parent_notes: >
+  This is not a research report. It is an act of attention. Help only as needed with safety and
+  identification. The student should do the noticing, sketching, naming, and wondering.
+
+safety_notes: >
+  Parent should approve the observation location. Do not touch unknown mushrooms, insects, nests,
+  animal remains, or irritating plants without adult permission.

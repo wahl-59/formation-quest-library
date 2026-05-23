@@ -1,0 +1,54 @@
+id: quest.poet_musician.piano_as_service.v1
+title: Piano as Service
+archetype: Poet-Musician
+theme: Beauty as Service
+duration: 1 week
+difficulty: Beginner
+estimated_time: 120
+source_modules:
+  - Music
+  - Household Activity
+  - Rangers of the Stead
+tags:
+  - music
+  - piano
+  - beauty
+  - household-service
+  - hospitality
+  - reflection
+
+why_it_matters: >
+  Music can serve the home by bringing beauty, peace, and order to the hearth. This quest helps
+  the student offer her piano practice as a gift rather than treating it only as a lesson requirement.
+
+instructions:
+  - Choose one short piano piece that can be prepared well this week.
+  - Practice the piece carefully over several days.
+  - Choose a household setting for the offering, such as after dinner, before evening prayer, during tea, or before family reading.
+  - Prepare one sentence of introduction explaining why you chose the piece or what beauty you hear in it.
+  - Play the piece for the household in the chosen setting.
+  - 'Write a short reflection answering this question: How can music serve a home?''
+  - 'Optional: create a small program card, copy a poem or Scripture line, light a candle, or arrange flowers for the setting.'
+
+deliverables:
+  - Prepared piano piece
+  - One-sentence introduction
+  - Household performance
+  - Short written reflection
+  - Optional program card or beauty detail
+
+evidence_required:
+  - text
+  - audio_or_video_or_parent_observation
+  - image
+
+finished_means: >
+  The student prepares one short piano piece, introduces it with one thoughtful sentence, plays it
+  for the household in a chosen setting, and writes a short reflection on how music can serve the home.
+
+parent_notes: >
+  This should feel like a gift, not a high-pressure recital. The standard is care, courage, beauty,
+  and service to the household.
+
+safety_notes: >
+  None.

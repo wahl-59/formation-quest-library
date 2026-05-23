@@ -1,0 +1,50 @@
+id: quest.household_steward.the_kindness_reconnaissance.v1
+title: The Kindness Reconnaissance
+archetype: Household Steward
+theme: Home, Place, and Service
+duration: 1 week
+difficulty: Beginner
+estimated_time: 75
+source_modules:
+  - Rangers of the Stead
+  - Household Activity
+tags:
+  - household-service
+  - kindness
+  - stewardship
+  - watchfulness
+  - hidden-mercy
+  - reflection
+
+why_it_matters: >
+  A Ranger notices what others miss and serves without needing applause. This quest trains quiet
+  mercy, household watchfulness, and the habit of creating peace without calling attention to oneself.
+
+instructions:
+  - For three different days, quietly notice one person in the household and one small burden, need, or preference.
+  - Choose one hidden act of kindness for that person.
+  - Complete the act without announcing it or seeking praise.
+  - Keep a private log of what you noticed and what you did.
+  - At the end of the quest, write a short reflection about how quiet service can change the atmosphere of a home.
+  - Share the private log and reflection with a parent.
+
+deliverables:
+  - Private kindness log with at least three entries
+  - Short final reflection
+  - Parent discussion or parent observation
+
+evidence_required:
+  - text
+  - parent_observation
+
+finished_means: >
+  The student completes at least three hidden acts of kindness, keeps a private log of what she
+  noticed and did, and writes a reflection on how quiet service changes the atmosphere of the home.
+
+parent_notes: >
+  Protect the hidden character of this quest. Evidence should not turn mercy into performance.
+  A brief private log and parent conversation are enough.
+
+safety_notes: >
+  Acts of service should be safe, appropriate, and within the student's responsibility. Parent should
+  redirect any plan involving tools, cooking, chemicals, money, or leaving the property.

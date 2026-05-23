@@ -1,0 +1,56 @@
+id: quest.medic.first_aid_scenario_card.v1
+title: First Aid Scenario Card
+archetype: Protector-Medic
+theme: Home, Place, and Service
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 120
+source_modules:
+  - Basic First Aid
+  - First Aid Challenge
+tags:
+  - first-aid
+  - health
+  - preparedness
+  - communication
+  - household-service
+  - responsibility
+
+why_it_matters: >
+  First aid begins with calm recognition and clear next steps. This quest helps a student learn
+  how to think through a simple injury scenario, communicate the need, and know when to get
+  adult or professional help.
+
+instructions:
+  - Choose one common first aid scenario with parent approval, such as a minor cut, burn, sprain, nosebleed, allergic reaction warning, or possible shock.
+  - Read or review one parent-approved first aid source about that scenario.
+  - 'Create a simple response card with three sections: signs to notice, first steps, and when to get help.'
+  - Practice explaining the response card to a parent in under two minutes.
+  - Roleplay the scenario with a parent or sibling using no real injury and no real medication.
+  - Revise the card after parent feedback.
+  - Write a short reflection on why calmness matters in first aid.
+
+deliverables:
+  - First aid response card
+  - Practice explanation
+  - Roleplay drill
+  - Revised response card
+  - Short written reflection
+
+evidence_required:
+  - image_or_pdf
+  - text
+  - parent_observation
+
+finished_means: >
+  The student creates a parent-approved first aid response card, explains it clearly,
+  practices a safe roleplay drill, revises the card after feedback, and writes a short
+  reflection on calmness in first aid.
+
+parent_notes: >
+  Keep this educational and age-appropriate. The response card should emphasize recognizing
+  the problem, staying calm, getting adult help, and avoiding unsafe improvisation.
+
+safety_notes: >
+  This quest is not medical training and does not replace professional care. Do not use real
+  medication, sharp tools, blood, heat, allergens, or injury during roleplay.
