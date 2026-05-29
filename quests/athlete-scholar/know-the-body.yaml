@@ -1,0 +1,52 @@
+id: quest.endurance.know_the_body.v1
+title: Know the Body
+archetype: Wayfinder-Steward
+theme: Endurance and Self-Command
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 240
+source_modules:
+  - Physical Training
+  - Reflection
+  - Readiness
+tags:
+  - endurance
+  - courage
+  - self-command
+  - breath
+  - fitness
+  - reflection
+why_it_matters: >
+  A student should learn the truth about his own body without boasting or despair. Strength,
+  fear, fatigue, breath, and attention all need training. This Quest helps the student discover
+  present capacity and practice steadiness under discomfort.
+
+instructions:
+  - Complete a parent-approved baseline movement test such as a timed walk, run, hike, bike ride, swim assessment, loaded carry, or hill climb.
+  - Record distance, time, perceived difficulty, weather, food, water, and recovery.
+  - Learn and practice one calming breath technique such as slow nasal breathing, box breathing, or longer-exhale breathing.
+  - Complete one safe discomfort exercise that lets the student taste fear or resistance without real danger.
+  - Examples of a safe discomfort exercise include a cold shower, cold-water face immersion, a dark outdoor sit with a parent nearby, a difficult hill climb, or floating calmly in a life jacket.
+  - After the discomfort exercise, pause before speaking and describe what fear or resistance felt like in the body.
+  - Write a short Student Reflection on present capacity, fear, breath, and what needs training.
+
+deliverables:
+  - Baseline movement log
+  - Breath practice note
+  - Discomfort exercise reflection
+  - Parent observation
+evidence_required:
+  - text
+  - parent_observation
+  - image
+finished_means: >
+  The student completes a baseline movement test, practices a calming breath technique,
+  completes one safe discomfort exercise, and writes an honest reflection about capacity,
+  fear, steadiness, and next steps for training.
+parent_notes: >
+  The discomfort exercise should be safe, brief, and formative rather than theatrical. The goal
+  is not to frighten the student but to teach that fear is a messenger, not a master.
+safety_notes: >
+  Parents should choose and supervise any discomfort exercise. Do not use breath-holding,
+  unsafe cold exposure, unsupervised water activity, dangerous heights, traffic exposure, or
+  any exercise that exceeds the student's health and maturity.

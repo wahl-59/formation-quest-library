@@ -1,0 +1,55 @@
+id: quest.fieldcraft.fire_food_field_kitchen.v1
+title: Fire, Food, and Field Kitchen
+archetype: Household-Steward
+theme: Sustenance and Outdoor Skill
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 300
+source_modules:
+  - Outdoor Skills
+  - Household Service
+  - Readiness
+tags:
+  - outdoor-cooking
+  - food
+  - firecraft
+  - hospitality
+  - self-reliance
+  - cleanup
+why_it_matters: >
+  A capable student should know how to feed himself simply and well. Outdoor food is not only
+  fuel. It is judgment, preparation, gratitude, hospitality, and care for the body under real
+  conditions.
+
+instructions:
+  - Plan one simple outdoor meal that can be prepared safely with parent-approved equipment.
+  - Plan one no-cook travel meal suitable for a long walk, ride, paddle, or field day.
+  - Learn the food, water, and cleanup needs for both meals.
+  - If parents approve, practice safe fire, stove, or camp-cooking setup and explain when fire is not appropriate.
+  - Prepare the outdoor meal for yourself and at least one other person.
+  - Pack or assemble the no-cook travel meal and explain when it would be useful.
+  - Clean the cooking area, store food properly, and leave no mess.
+  - Write a short note explaining what foods sustained energy, what packed well, and what should be changed.
+
+deliverables:
+  - Outdoor meal plan
+  - No-cook travel meal plan
+  - Prepared outdoor meal
+  - Cleanup confirmation
+  - Food reflection
+evidence_required:
+  - text
+  - image
+  - parent_observation
+finished_means: >
+  The student plans and prepares one safe outdoor meal, assembles one no-cook travel meal,
+  serves at least one other person, cleans up properly, and explains what food choices would
+  sustain a longer day outdoors.
+parent_notes: >
+  Encourage simple, sturdy food rather than elaborate performance. The meal should train
+  usefulness, gratitude, and good judgment. Parent approval governs knives, heat, fire, fuel,
+  storage, and cleanup.
+safety_notes: >
+  Use parent-approved cooking equipment only. Follow local fire rules. Do not use open flame,
+  stoves, knives, or fuel without appropriate supervision. Practice safe food handling and
+  proper cleanup.

@@ -1,0 +1,53 @@
+id: quest.preparedness.first_aid_weather_contingency.v1
+title: First Aid, Weather, and Contingency
+archetype: Household-Steward
+theme: Readiness and Wise Limits
+duration: 1 week
+difficulty: Advanced
+estimated_time: 360
+source_modules:
+  - First Aid
+  - Weather
+  - Preparedness
+tags:
+  - first-aid
+  - weather
+  - preparedness
+  - contingency
+  - safety
+  - judgment
+why_it_matters: >
+  Real preparedness is not fearfulness. It is love made practical. A student who can recognize
+  hazards, care for small injuries, read weather, communicate clearly, and turn back when needed
+  is more useful to his family and companions.
+
+instructions:
+  - Build or inspect a small first aid kit suitable for a parent-approved outdoor journey.
+  - Learn how to recognize and respond to blisters, small cuts, sprains, dehydration, heat stress, sunburn, ticks, and cold stress.
+  - Check the weather forecast for a planned practice route and identify at least three weather hazards.
+  - Create a contingency plan with emergency contacts, check-in times, pickup points, communication options, and cancellation rules.
+  - Identify what to do if the route is lost, a phone dies, water runs low, an injury occurs, weather turns, or equipment breaks.
+  - Practice one parent-led scenario and explain the next right action calmly.
+  - Write a short statement naming conditions that would require turning back, stopping, or calling for help.
+
+deliverables:
+  - First aid kit inventory
+  - Weather hazard notes
+  - Contingency plan
+  - Scenario response
+  - Turn-back conditions
+evidence_required:
+  - text
+  - image_or_pdf
+  - parent_observation
+finished_means: >
+  The student prepares a first aid kit, explains common outdoor health concerns, checks weather,
+  creates a contingency plan, practices one emergency scenario, and can calmly name conditions
+  that require stopping, turning back, or calling for help.
+parent_notes: >
+  This Quest should train judgment rather than anxiety. Praise the student for wise limits.
+  The ability to say that conditions are not safe is a sign of maturity, not failure.
+safety_notes: >
+  This Quest does not replace formal first aid training or medical care. Parents should provide
+  instruction appropriate to the student's age and should seek professional training for higher-risk
+  activities.

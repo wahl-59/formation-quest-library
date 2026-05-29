@@ -1,0 +1,54 @@
+id: quest.watercraft.crossing_judgment.v1
+title: Watercraft and Crossing Judgment
+archetype: Wayfinder-Steward
+theme: Water Safety and Wise Passage
+duration: 1 week
+difficulty: Advanced
+estimated_time: 360
+source_modules:
+  - Water Safety
+  - Paddling
+  - Preparedness
+tags:
+  - water-safety
+  - paddling
+  - judgment
+  - preparedness
+  - outdoor-skills
+  - safety
+why_it_matters: >
+  Water is beautiful and dangerous. A student should learn to respect wind, current, cold,
+  visibility, fatigue, equipment, and adult instruction. Wise passage means knowing not only
+  how to cross, but when not to cross.
+
+instructions:
+  - Learn proper life jacket fit and explain why it must be worn around water when required by parents or conditions.
+  - Learn basic water hazards such as current, wind, cold water, strainers, boat traffic, low visibility, slippery banks, and fatigue.
+  - With qualified adult supervision, practice entering and exiting a canoe, kayak, or other parent-approved paddle craft.
+  - Practice basic paddle strokes, stopping, turning, communication, and safe behavior in or near the craft.
+  - Learn what to do if a craft tips or a paddle is dropped, according to the supervising adult's instruction.
+  - Complete a short supervised paddle or equivalent water-safety practice.
+  - Create a crossing judgment checklist that includes weather, wind, water temperature, current, visibility, boat traffic, launch point, landing point, adult supervision, emergency plan, and cancellation conditions.
+  - Explain to a parent when the wise answer would be to postpone, choose a safer location, or use a symbolic crossing.
+
+deliverables:
+  - Life jacket fit demonstration
+  - Water hazard notes
+  - Supervised paddle or water-safety practice
+  - Crossing judgment checklist
+  - Parent observation
+evidence_required:
+  - text
+  - image
+  - parent_observation
+finished_means: >
+  The student demonstrates safe life jacket use, learns basic water hazards, completes supervised
+  paddle or water-safety practice, creates a crossing judgment checklist, and can explain when
+  water conditions require postponing or choosing a safer alternative.
+parent_notes: >
+  This Quest should form humility before water. The student should understand that canceling,
+  postponing, or choosing a safer symbolic crossing can be the wisest and most courageous decision.
+safety_notes: >
+  Water activities require parent approval and qualified adult supervision. Follow all local laws
+  and safety requirements. Do not attempt open-water swimming, river crossing, or paddling in
+  hazardous conditions without proper training, flotation, supervision, and emergency planning.

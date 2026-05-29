@@ -1,0 +1,54 @@
+id: quest.endurance.long_walk.v1
+title: The Long Walk
+archetype: Wayfinder-Steward
+theme: Pace, Feet, and Faithfulness
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 300
+source_modules:
+  - Physical Training
+  - Readiness
+  - Outdoor Skills
+tags:
+  - hiking
+  - endurance
+  - pacing
+  - foot-care
+  - service
+  - planning
+why_it_matters: >
+  Feet tell the truth. A long walk teaches pace, patience, footwear, water, weather, fatigue,
+  and the difference between imagined strength and tested strength. It also trains the student
+  to remain useful after effort.
+
+instructions:
+  - Choose a parent-approved walking or hiking route with a clear distance and at least one bailout option.
+  - Before the walk, estimate total time, moving pace, rest breaks, water needs, food needs, and likely difficulties.
+  - Pack a realistic day kit including water, food, weather layer, first aid basics, navigation, and any parent-required safety items.
+  - Complete the long walk at a steady pace without rushing the beginning.
+  - Notice foot comfort, hot spots, socks, shoes, pack fit, weather, hunger, thirst, and mood.
+  - After the walk, compare the estimated time and needs with what actually happened.
+  - Complete one small act of service while tired, such as cleaning gear, carrying trash, helping another person, preparing food, or serving at home.
+  - Write a short reflection on what the feet, body, and attitude revealed.
+
+deliverables:
+  - Walk plan
+  - Route record
+  - Time and distance comparison
+  - Kit list
+  - Tired service note
+  - Student Reflection
+evidence_required:
+  - text
+  - image
+  - parent_observation
+finished_means: >
+  The student plans and completes a parent-approved long walk, tests kit and pacing, compares
+  estimates with reality, performs a small act of service afterward, and records what should
+  change before a longer journey.
+parent_notes: >
+  Scale the distance to the student's age and ability. A shorter walk done attentively is better
+  than a longer walk done foolishly. Watch for blisters, heat, cold, hydration, and morale.
+safety_notes: >
+  Parents should approve distance, route, weather, traffic exposure, supervision, hydration,
+  and bailout options. Stop or shorten the walk if conditions become unsafe.

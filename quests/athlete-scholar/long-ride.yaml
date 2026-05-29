@@ -1,0 +1,55 @@
+id: quest.cycling.long_ride.v1
+title: The Long Ride
+archetype: Wayfinder-Steward
+theme: Pace, Repair, and Judgment
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 360
+source_modules:
+  - Physical Training
+  - Cycling
+  - Readiness
+tags:
+  - cycling
+  - endurance
+  - bike-repair
+  - pacing
+  - planning
+  - safety
+why_it_matters: >
+  A bicycle can carry a student farther than his feet, but distance requires judgment. A long
+  ride teaches true pace, traffic awareness, repair readiness, hydration, food, fatigue, and
+  honest planning under the student's own power.
+
+instructions:
+  - Choose a parent-approved bicycling route with a known distance, safe road or trail conditions, and clear pickup options.
+  - Before riding, estimate moving time, stopped time, average pace, food, water, weather difficulty, and likely hazards.
+  - Complete a pre-ride bicycle check including tires, brakes, chain, seat height, lights or reflectors, and helmet fit.
+  - Carry basic repair items approved by a parent, such as pump, tube, patch kit, tire levers, and multitool.
+  - Demonstrate at least two basic bicycle repair or recovery skills before or after the ride.
+  - Complete the ride at a sustainable pace while recording moving time, stopped time, distance, energy, food, water, wind, hills, crossings, and mechanical issues.
+  - Compare estimated pace with actual pace and revise future travel assumptions.
+  - Write a short reflection on whether cycling is a wise mode for a larger journey.
+
+deliverables:
+  - Ride plan
+  - Pre-ride bicycle check
+  - Repair demonstration
+  - Route and pace record
+  - Revised travel estimate
+  - Student Reflection
+evidence_required:
+  - text
+  - image
+  - parent_observation
+finished_means: >
+  The student plans and completes a parent-approved long ride, demonstrates basic bicycle
+  readiness or repair, records true pace and conditions, and makes a sober judgment about
+  using a bicycle for a larger journey.
+parent_notes: >
+  This Quest is most useful for students who may use a bicycle in a larger challenge. If a
+  student will not use a bicycle, parents may substitute another self-powered travel mode and
+  require a relevant equipment check and repair demonstration.
+safety_notes: >
+  The student should wear a helmet and follow parent-approved traffic rules. Parents should
+  approve roads, crossings, weather, distance, visibility, supervision, and pickup options.

@@ -1,0 +1,52 @@
+id: quest.wayfinding.know_the_way.v1
+title: Know the Way
+archetype: Wayfinder-Steward
+theme: Navigation and Place
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 300
+source_modules:
+  - Navigation
+  - Local Geography
+  - Nature Study
+tags:
+  - navigation
+  - mapwork
+  - geography
+  - observation
+  - planning
+  - place
+why_it_matters: >
+  A journey should begin with attention. Knowing the way trains the student to read maps,
+  notice the land, identify hazards, plan with humility, and move through the world with
+  more than vague confidence.
+
+instructions:
+  - Identify the beginning point and ending point for a parent-approved journey or practice route.
+  - Find at least two possible routes between the beginning and ending point.
+  - Mark major waypoints, road crossings, trailheads, bridges, towns, water access, restrooms, resupply options, and possible pickup points.
+  - Choose possible self-powered modes of travel such as walking, running, bicycling, paddling, or a combination.
+  - Create a clean route map by hand or with printed materials that includes distance estimates and important waypoints.
+  - Practice one short navigation exercise without relying on turn-by-turn phone directions.
+  - Learn one sky-navigation practice such as finding north by the North Star, observing sunrise and sunset direction, or using shadows to notice direction.
+  - Present the route to a parent and explain the main choices, risks, and uncertainties.
+
+deliverables:
+  - Route map
+  - Waypoint list
+  - Distance estimate
+  - Navigation practice note
+  - Parent route presentation
+evidence_required:
+  - image_or_pdf
+  - text
+  - parent_observation
+finished_means: >
+  The student creates a usable route map, identifies key waypoints and possible hazards,
+  practices basic navigation, and can explain the route and travel options clearly to a parent.
+parent_notes: >
+  The route may be small or large. The important thing is that the student learns to move from
+  vague intention to concrete wayfinding. Parent judgment should govern all travel routes.
+safety_notes: >
+  Parents should approve the route, traffic exposure, water access, road crossings, weather
+  conditions, and whether adult accompaniment is required.

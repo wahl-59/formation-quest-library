@@ -1,0 +1,53 @@
+id: quest.memory.roots_and_roads.v1
+title: Roots and Roads
+archetype: Memory-Keeper
+theme: A Name, A Place, and A Deed
+duration: 1 week
+difficulty: Intermediate
+estimated_time: 240
+source_modules:
+  - Family Memory
+  - Local History
+tags:
+  - family-memory
+  - local-history
+  - ancestry
+  - narration
+  - mapwork
+  - reflection
+why_it_matters: >
+  A student does not come from nowhere. Family stories and local places can reveal courage,
+  sacrifice, hardship, skill, faithfulness, folly, and mercy. This Quest helps the student receive
+  memory as a summons to become stronger, wiser, and more capable of loving what is good.
+
+instructions:
+  - Choose one ancestor, family member, or local historical figure whose life connects to a meaningful place.
+  - 'Learn the basic facts of the person: name, dates if known, places lived, family connection, and historical setting.'
+  - Find one remarkable story, episode, hardship, deed, craft, journey, act of service, or moment of courage from that person's life.
+  - Interview a parent, grandparent, relative, neighbor, librarian, historian, or knowledgeable adult if possible.
+  - Locate the story on a map and mark at least three places connected to the person, event, journey, or historical setting.
+  - Identify three virtues, skills, warnings, or questions raised by the story.
+  - Create a one-page story brief using the pattern of a name, a place, and a deed.
+  - Give a short oral narration to a parent, then answer what this story asks of you.
+
+deliverables:
+  - One-page story brief
+  - Simple map with at least three marked places
+  - List of three virtues, skills, warnings, or questions
+  - Short oral narration for a parent
+  - Student Reflection on what the story asks of the student
+evidence_required:
+  - text
+  - image_or_pdf
+  - parent_observation
+finished_means: >
+  The student can identify one person worth remembering, explain where the story happened,
+  narrate what happened, show the place or movement on a map, name at least three virtues,
+  skills, warnings, or questions, and explain why the story matters for his own formation.
+parent_notes: >
+  This Quest should avoid both prideful ancestor worship and cynical dismissal. Help the student
+  honor what is noble, tell the truth about what is difficult, and see the person as part of a
+  real family, place, and historical world.
+safety_notes: >
+  Parents should approve any interviews, cemetery visits, site visits, or online research.
+  Do not publish private family details in shared library content.
