@@ -1,0 +1,30 @@
+id: quest.maker.the_architect_of_balance_designing_a_strategy_game.v1
+title: "The Architect of Balance: Designing a Strategy Game"
+archetype: Maker
+theme: Logic and Strategy
+duration: 3 days
+difficulty: Intermediate
+estimated_time: 120
+tags:
+  - Game Design
+  - Logic
+  - Systems Thinking
+  - Creative Writing
+why_it_matters: Understanding how systems interact and how rules govern outcomes is a foundational skill for critical thinking. By creating a game, one learns to manipulate variables and observe the consequences of those rules in a controlled environment, moving from abstract memorization to practical application.
+instructions:
+  - Design a simple board or card game where players gain or lose points based on positive and negative values.
+  - Create a set of 'Event Cards' that require players to add, subtract, multiply, or divide their current score by a positive or negative integer.
+  - Draft a clear, one-page rulebook that explains how the game is played and how the math rules function.
+  - Create a visual 'Score Tracker' board that allows players to visualize moving into negative territory and back into positive territory.
+  - Playtest the game at least twice to ensure the rules are consistent and the mechanics work as intended.
+  - Refine the rules based on the playtest results to ensure the game is balanced and fair.
+deliverables:
+  - A set of handmade game cards
+  - A written rulebook
+  - A visual score tracker board
+evidence_required:
+  - image
+  - text
+finished_means: The game is fully playable, the rules are written down, and the score tracker is functional.
+parent_notes: Provide cardstock, markers, and a ruler. Encourage the student to test the game mechanics by playing a few rounds to see if the math rules create the intended gameplay experience.
+safety_notes: Standard household craft safety applies (scissors, glue).
