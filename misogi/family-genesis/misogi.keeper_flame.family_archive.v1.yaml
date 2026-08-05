@@ -1,0 +1,112 @@
+id: misogi.keeper_flame.family_archive.v1
+title: 'Keeper of the Flame: A Family Story Archive'
+archetype: Communicator
+theme: Home, Place, and Service
+duration_weeks: 12
+difficulty: 4
+estimated_total_hours: 36
+source_modules:
+- StoryKeeper-inspired oral history
+- Family correspondence
+- Formation Ledger
+tags:
+- family history
+- letter writing
+- oral history
+- grandparents
+- portfolio
+- service
+formation_goal: Become a trustworthy keeper of family memory by gathering stories, practicing courteous letter writing, conducting at least one elder interview, and shaping the first edition of a family archive.
+description: The student accepts the charge of Keeper of the Flame and begins a living family story archive. Over twelve weeks she writes to grandparents, gathers memories, labels photographs, builds a simple timeline, conducts at least one live interview, and creates a first-edition Family Flame Book that can continue growing for years.
+why_it_matters: Families are strengthened when their stories are remembered with gratitude and care. This misogi trains attention, humility, patience, good questions, clear writing, and reverence for those who came before.
+weekly_milestones:
+- week: 1
+  title: Receive the Charge
+  description: Define the role of Keeper of the Flame and set up the archive structure.
+  finished_means: A binder or digital folder exists with sections for letters, interviews, photos, timeline, and finished stories.
+- week: 2
+  title: Open the Door by Letter
+  description: Write the first warm letter to grandparents explaining the project and asking permission to send story questions.
+  finished_means: At least one thoughtful letter is written, reviewed, and sent.
+- week: 3
+  title: Build the Question Treasure Chest
+  description: Create and organize a bank of story questions for letters and interviews.
+  finished_means: At least twenty-five questions are sorted into useful categories, with eight chosen for a first interview.
+- week: 4
+  title: Send One Prompt
+  description: Send a focused story prompt that invites one vivid memory rather than a whole life story.
+  finished_means: A second letter or message is sent with one clear story prompt and an invitation to respond.
+- week: 5
+  title: Become a Photo Detective
+  description: Gather and label family photographs, then ask elders for missing details.
+  finished_means: At least eight photos or artifacts are labeled, and at least two photo questions are sent.
+- week: 6
+  title: Plant the Family Timeline
+  description: Create a simple timeline to organize people, places, dates, moves, and major events.
+  finished_means: A timeline with at least fifteen entries and three open mysteries is created.
+- week: 7
+  title: Practice Listening
+  description: Practice interviewing with a parent or sibling before speaking with a grandparent.
+  finished_means: A short practice interview is completed and reflected upon.
+- week: 8
+  title: Conduct the First Flame Interview
+  description: Interview a grandparent or elder by phone, video, or face-to-face, with permission to record if possible.
+  finished_means: One real interview is completed and preserved as notes, audio, or video.
+- week: 9
+  title: Write the First Story Chapter
+  description: Turn one collected memory into a polished family story chapter.
+  finished_means: A 500-900 word story chapter is drafted, revised, and saved.
+- week: 10
+  title: Gather a Second Story
+  description: Collect one more story, ideally from another grandparent or from a different season of life.
+  finished_means: A second story is gathered by letter, notes, or interview and added to the archive.
+- week: 11
+  title: Build the Family Flame Book
+  description: Assemble the first edition family artifact.
+  finished_means: A book, binder, or PDF includes a title page, contents, two stories, timeline, photos, and future questions.
+- week: 12
+  title: Present the Flame
+  description: Share the finished artifact with the family and ask what should be preserved next.
+  finished_means: The student gives a short family presentation and completes a final reflection.
+linked_quest_ideas:
+- quest.keeper_flame.receive_charge.v1
+- quest.keeper_flame.first_letter.v1
+- quest.keeper_flame.question_treasure_chest.v1
+- quest.keeper_flame.one_prompt_one_story.v1
+- quest.keeper_flame.photo_detective.v1
+- quest.keeper_flame.family_timeline.v1
+- quest.keeper_flame.listening_apprentice.v1
+- quest.keeper_flame.first_interview.v1
+- quest.keeper_flame.story_chapter_one.v1
+- quest.keeper_flame.second_story_hunt.v1
+- quest.keeper_flame.flame_book_build.v1
+- quest.keeper_flame.present_the_flame.v1
+final_artifact: A first-edition Family Flame Book, either printed or digital, containing a title page, table of contents, at least two polished family story chapters, at least eight labeled photographs or artifacts, a simple family timeline, selected letters or excerpts, a list of questions still waiting to be asked, and the student's reflection.
+final_demonstration: The student presents the Family Flame Book to the family in a 5-10 minute presentation, reads one favorite story aloud, shows the timeline and photographs, and asks relatives for three stories to preserve next.
+evidence_required:
+- Copies or photos of letters sent
+- Interview notes or audio/video recording with permission
+- Labeled photo or artifact pages
+- Family timeline
+- Final Family Flame Book as PDF, binder, or printed booklet
+- Student reflection
+parent_review_rubric:
+  complete:
+  - At least six letters or written messages were drafted during the project.
+  - At least one live interview was completed with a grandparent or elder.
+  - At least two family stories were shaped into readable chapters.
+  - At least eight photographs or artifacts were labeled.
+  - The final artifact is organized, presentable, and suitable for the family archive.
+  - The student showed courtesy, patience, and care with private family memories.
+  needs_revision:
+  - The archive exists but lacks organization or clear labels.
+  - The final artifact contains stories but needs editing for clarity, accuracy, or kindness.
+  - The student gathered material but did not yet connect it into a coherent family artifact.
+  - A parent needs to review privacy-sensitive details before the artifact is shared.
+  incomplete:
+  - No elder interview was completed.
+  - The student did not gather enough stories, photos, or letters to create a meaningful artifact.
+  - The final artifact is missing or too disorganized to preserve family memory.
+portfolio_description: I served as Keeper of the Flame for my family by writing to my grandparents, collecting family stories, interviewing an elder, labeling photographs, building a timeline, and creating the first edition of our Family Flame Book.
+parent_notes: Help with addresses, scheduling, recording consent, printing, and privacy review. Encourage handwritten letters when possible, but allow email or typed letters if that keeps the correspondence moving. Treat this as the beginning of a long family archive, not the end.
+safety_notes: Ask permission before recording. Do not publish private family details online. Let elders skip any question. If a painful memory arises, receive it gently and ask a parent for help deciding how or whether to include it.
