@@ -1,0 +1,32 @@
+id: quest.architect.the_backyard_refresh_designing_a_garden_path.v1
+title: "The Backyard Refresh: Designing a Garden Path"
+archetype: Architect
+theme: Spatial Reasoning and Practical Design
+duration: 2 days
+difficulty: Intermediate
+estimated_time: 120
+tags:
+  - planning
+  - measurement
+  - design
+  - outdoor
+  - geometry
+why_it_matters: Learning to translate physical space into a scaled plan develops the ability to solve real-world problems through logical structure and precise measurement. It bridges the gap between abstract concepts and tangible results.
+instructions:
+  - Select a small area of the yard or a garden bed that needs a path or a defined walkway.
+  - Measure the length and width of the area using a tape measure and record the dimensions.
+  - Draft a top-down map of the space on graph paper, using a consistent scale (e.g., one square equals six inches).
+  - Calculate the total area to be covered and determine how many stones, pavers, or bags of mulch are needed to fill the space.
+  - Create a list of materials required based on the calculations.
+  - Present the plan and the material list to the household to verify the feasibility of the design.
+  - Execute the plan by laying out the materials according to the map.
+deliverables:
+  - A scaled map on graph paper
+  - A written material list with calculations
+  - The completed physical path or layout in the garden
+evidence_required:
+  - image
+  - text
+finished_means: The path is physically laid out according to the map, and the materials used match the calculated requirements.
+parent_notes: Provide graph paper, a tape measure, and access to the garden area. Encourage the student to think about how the path will be used (e.g., walking, wheelbarrow access) to inform the design.
+safety_notes: Ensure the student is supervised when handling heavy materials like pavers or stones. Use gloves to prevent splinters or scrapes.
