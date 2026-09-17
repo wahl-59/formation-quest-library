@@ -1,0 +1,31 @@
+id: quest.architect.the_weather_resistant_outdoor_shelter_prototype.v1
+title: The Weather-Resistant Outdoor Shelter Prototype
+archetype: Architect
+theme: Engineering and Resilience
+duration: 2 days
+difficulty: Intermediate
+estimated_time: 180
+tags:
+  - Engineering
+  - Construction
+  - Outdoors
+  - Problem Solving
+  - Design
+why_it_matters: Building a functional structure requires balancing structural integrity with material limitations. This process fosters the ability to plan, execute, and iterate, teaching the value of persistence and the physical laws that govern the built environment.
+instructions:
+  - Survey the outdoor space to identify a location for a small-scale shelter prototype.
+  - Gather household or natural materials such as sticks, twine, cardboard, scrap wood, or fabric.
+  - Draft a simple sketch of the shelter design, noting the intended dimensions and material usage.
+  - Construct the shelter prototype, focusing on stability and weather resistance.
+  - Test the shelter by simulating a light rain or wind event to observe its performance.
+  - Document the final structure and any modifications made during the construction process.
+deliverables:
+  - A labeled sketch of the shelter design
+  - A completed outdoor shelter prototype
+  - A brief written reflection on what worked and what would be improved in a second iteration
+evidence_required:
+  - image
+  - text
+finished_means: The shelter is fully assembled, tested against the elements, and the reflection on the construction process is complete.
+parent_notes: Ensure a variety of scrap materials are available. Encourage the student to think about how joints or connections are made. The focus is on the process of building and testing, not the aesthetic perfection of the final product.
+safety_notes: Supervise the use of any cutting tools. Ensure the construction site is clear of hazards and that the structure is built in a location where it will not cause damage to existing landscaping.
