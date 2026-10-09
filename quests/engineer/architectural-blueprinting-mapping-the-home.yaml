@@ -1,0 +1,28 @@
+id: quest.engineer.architectural_blueprinting_mapping_the_home.v1
+title: "Architectural Blueprinting: Mapping the Home"
+archetype: Engineer
+theme: Skill, Vocation, and Gift
+duration: 5 days
+difficulty: Advanced
+estimated_time: 180
+tags:
+  - Engineering
+  - Spatial Reasoning
+  - Technical Drawing
+  - Architecture
+  - Measurement
+why_it_matters: Understanding the physical structure of one's environment develops spatial intelligence, precision in measurement, and the ability to translate three-dimensional reality into two-dimensional technical documentation. This work builds the capacity to plan, visualize, and execute improvements in the built environment.
+instructions:
+  - Use a measuring tape to determine the dimensions of every room, wall, doorway, and window.
+  - Sketch a rough draft on graph paper to ensure all measurements are captured accurately.
+  - Utilize computer-aided design software to create a professional-grade, to-scale floorplan.
+  - Include labels for all rooms and indicate the location of essential service points such as electrical outlets, HVAC vents, and water access points.
+  - Review the final digital file against the physical space to ensure accuracy and scale.
+deliverables:
+  - A completed, to-scale digital floorplan file
+  - A set of annotated notes detailing the location of household service systems
+evidence_required:
+  - file_or_link
+finished_means: The Quest is finished when a complete, to-scale digital floorplan of the home is produced that accurately reflects the dimensions and service locations of the space.
+parent_notes: Provide access to a reliable measuring tape and ensure the student has a quiet workspace for the digital drafting portion. It may be helpful to provide a brief tutorial or resource for the specific software being used if the student is new to the interface.
+safety_notes: Ensure caution when measuring near electrical outlets or in tight spaces. Supervise the use of any tools if necessary, and ensure that the student remains aware of their surroundings while moving through the home with measuring equipment.
